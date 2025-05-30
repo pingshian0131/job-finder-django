@@ -3,6 +3,7 @@
 ## Introduction
 - use django-ninja, django-ninja-jwt to build a RESTful API Job Finder application
 - use django-auth to protect API Docs access
+![pic](https://github.com/pingshian0131/job-finder-django/blob/main/static/api_docs_screenshot.png)
 - pytest-django for testing, based on API Level testing
 - SQlite3 as default database, but can be configured to use Postgres
 - JWT authentication for protected API access, such as creating, updating, and deleting jobs
