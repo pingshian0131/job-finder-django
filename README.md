@@ -73,4 +73,4 @@ SQL_PORT=5432
 
 ## CICD
   - use github actions to run blackd format check, tests, and coverage
-  - to see the current test result, check the [Actions tab](https://github.com/job-finder-django/actions/)
+  - to see the current test result, check the [Actions tab](https://github.com/pingshian0131/job-finder-django/actions)
