@@ -1,0 +1,3602 @@
+[
+  {
+    "model": "app.job",
+    "pk": 1,
+    "fields": {
+      "title": "Cloud Solutions Architect (Test Job #1)",
+      "desc": "We are looking for a talented Cloud Solutions Architect to join our dynamic team at Tech Solutions Inc.. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "面議",
+      "salary_range_avg": "40000.00",
+      "company_name": "Tech Solutions Inc.",
+      "posting_date": "2025-02-22",
+      "expiration_date": "2025-05-23",
+      "required_skills": "Python,Project Management",
+      "created_at": "2025-05-28T16:51:24.117Z",
+      "updated_at": "2025-05-28T16:51:24.117Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 2,
+    "fields": {
+      "title": "Cloud Solutions Architect (Test Job #2)",
+      "desc": "We are looking for a talented Cloud Solutions Architect to join our dynamic team at Tech Solutions Inc.. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "67580~94251",
+      "salary_range_avg": "80915.00",
+      "company_name": "Tech Solutions Inc.",
+      "posting_date": "2025-02-09",
+      "expiration_date": "2025-05-10",
+      "required_skills": "Cloud Computing,React,Communication Skills",
+      "created_at": "2025-05-28T16:51:24.117Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 3,
+    "fields": {
+      "title": "Software Engineer (Test Job #3)",
+      "desc": "We are looking for a talented Software Engineer to join our dynamic team at Tech Solutions Inc.. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "79013~87212",
+      "salary_range_avg": "83112.00",
+      "company_name": "Tech Solutions Inc.",
+      "posting_date": "2025-03-24",
+      "expiration_date": "2025-06-22",
+      "required_skills": "Medical Laboratory Techniques,Customer Service,Communication Skills,Project Management",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 4,
+    "fields": {
+      "title": "Senior Python Developer (Test Job #4)",
+      "desc": "We are looking for a talented Senior Python Developer to join our dynamic team at Tech Solutions Inc.. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "37951~112074",
+      "salary_range_avg": "75012.00",
+      "company_name": "Tech Solutions Inc.",
+      "posting_date": "2025-02-25",
+      "expiration_date": "2025-05-26",
+      "required_skills": "Problem Solving,Logistics Management,Customer Service,Time Management,React,Project Management",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 5,
+    "fields": {
+      "title": "Logistics Coordinator (Test Job #5)",
+      "desc": "We are looking for a talented Logistics Coordinator to join our dynamic team at Tech Solutions Inc.. Responsibilities include...",
+      "location": "San Francisco, CA",
+      "salary_range": "30587~82309",
+      "salary_range_avg": "56448.00",
+      "company_name": "Tech Solutions Inc.",
+      "posting_date": "2025-03-26",
+      "expiration_date": "2025-06-24",
+      "required_skills": "Data Analysis,Agile Methodologies,Machine Learning,Supply Chain Optimization,Medical Laboratory Techniques",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 6,
+    "fields": {
+      "title": "Product Manager (Test Job #6)",
+      "desc": "We are looking for a talented Product Manager to join our dynamic team at Tech Solutions Inc.. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "37019~109523",
+      "salary_range_avg": "73271.00",
+      "company_name": "Tech Solutions Inc.",
+      "posting_date": "2025-02-28",
+      "expiration_date": "2025-05-29",
+      "required_skills": "Problem Solving,Communication Skills,Python,Machine Learning,Django",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 7,
+    "fields": {
+      "title": "Project Coordinator (Test Job #7)",
+      "desc": "We are looking for a talented Project Coordinator to join our dynamic team at Tech Solutions Inc.. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "41887~90816",
+      "salary_range_avg": "66351.00",
+      "company_name": "Tech Solutions Inc.",
+      "posting_date": "2025-03-19",
+      "expiration_date": "2025-06-17",
+      "required_skills": "Python,Data Analysis",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 8,
+    "fields": {
+      "title": "Cybersecurity Analyst (Test Job #8)",
+      "desc": "We are looking for a talented Cybersecurity Analyst to join our dynamic team at Tech Solutions Inc.. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "39480~114128",
+      "salary_range_avg": "76804.00",
+      "company_name": "Tech Solutions Inc.",
+      "posting_date": "2025-02-25",
+      "expiration_date": "2025-05-26",
+      "required_skills": "Problem Solving,Django",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 9,
+    "fields": {
+      "title": "Renewable Energy Technician (Test Job #9)",
+      "desc": "We are looking for a talented Renewable Energy Technician to join our dynamic team at Tech Solutions Inc.. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "73165~80916",
+      "salary_range_avg": "77040.00",
+      "company_name": "Tech Solutions Inc.",
+      "posting_date": "2025-02-07",
+      "expiration_date": "2025-05-08",
+      "required_skills": "Logistics Management,Customer Service,JavaScript,Renewable Energy Systems,Machine Learning",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 10,
+    "fields": {
+      "title": "Supply Chain Analyst (Test Job #10)",
+      "desc": "We are looking for a talented Supply Chain Analyst to join our dynamic team at Tech Solutions Inc.. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "32868~97218",
+      "salary_range_avg": "65043.00",
+      "company_name": "Tech Solutions Inc.",
+      "posting_date": "2025-03-26",
+      "expiration_date": "2025-06-24",
+      "required_skills": "Time Management,Supply Chain Optimization,Django,React",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 11,
+    "fields": {
+      "title": "Project Coordinator (Test Job #1)",
+      "desc": "We are looking for a talented Project Coordinator to join our dynamic team at Green Energy Co.. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "面議",
+      "salary_range_avg": "40000.00",
+      "company_name": "Green Energy Co.",
+      "posting_date": "2025-03-06",
+      "expiration_date": "2025-06-04",
+      "required_skills": "Time Management,React,UI/UX Design,JavaScript,Data Analysis",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 12,
+    "fields": {
+      "title": "SEO Specialist (Test Job #2)",
+      "desc": "We are looking for a talented SEO Specialist to join our dynamic team at Green Energy Co.. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "49131~102023",
+      "salary_range_avg": "75577.00",
+      "company_name": "Green Energy Co.",
+      "posting_date": "2025-02-17",
+      "expiration_date": "2025-05-18",
+      "required_skills": "Supply Chain Optimization,React,UI/UX Design",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 13,
+    "fields": {
+      "title": "Customer Support Specialist (Test Job #3)",
+      "desc": "We are looking for a talented Customer Support Specialist to join our dynamic team at Green Energy Co.. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "58707~119833",
+      "salary_range_avg": "89270.00",
+      "company_name": "Green Energy Co.",
+      "posting_date": "2025-02-19",
+      "expiration_date": "2025-05-20",
+      "required_skills": "Customer Service,Logistics Management,Project Management,Machine Learning,Django",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 14,
+    "fields": {
+      "title": "Senior Python Developer (Test Job #4)",
+      "desc": "We are looking for a talented Senior Python Developer to join our dynamic team at Green Energy Co.. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "58067~110522",
+      "salary_range_avg": "84294.00",
+      "company_name": "Green Energy Co.",
+      "posting_date": "2025-03-13",
+      "expiration_date": "2025-06-11",
+      "required_skills": "SEO,Communication Skills,Customer Service,UI/UX Design",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 15,
+    "fields": {
+      "title": "Cloud Solutions Architect (Test Job #5)",
+      "desc": "We are looking for a talented Cloud Solutions Architect to join our dynamic team at Green Energy Co.. Responsibilities include...",
+      "location": "San Francisco, CA",
+      "salary_range": "40807~81607",
+      "salary_range_avg": "61207.00",
+      "company_name": "Green Energy Co.",
+      "posting_date": "2025-03-03",
+      "expiration_date": "2025-06-01",
+      "required_skills": "UI/UX Design,Renewable Energy Systems,SEO,Communication Skills",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 16,
+    "fields": {
+      "title": "Operations Manager (Test Job #6)",
+      "desc": "We are looking for a talented Operations Manager to join our dynamic team at Green Energy Co.. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "32181~118054",
+      "salary_range_avg": "75117.00",
+      "company_name": "Green Energy Co.",
+      "posting_date": "2025-03-13",
+      "expiration_date": "2025-06-11",
+      "required_skills": "Medical Laboratory Techniques,Agile Methodologies,SEO",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 17,
+    "fields": {
+      "title": "Project Coordinator (Test Job #7)",
+      "desc": "We are looking for a talented Project Coordinator to join our dynamic team at Green Energy Co.. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "38033~118373",
+      "salary_range_avg": "78203.00",
+      "company_name": "Green Energy Co.",
+      "posting_date": "2025-03-20",
+      "expiration_date": "2025-06-18",
+      "required_skills": "Time Management,UI/UX Design,Project Management",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 18,
+    "fields": {
+      "title": "Healthcare Consultant (Test Job #8)",
+      "desc": "We are looking for a talented Healthcare Consultant to join our dynamic team at Green Energy Co.. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "31826~83956",
+      "salary_range_avg": "57891.00",
+      "company_name": "Green Energy Co.",
+      "posting_date": "2025-02-09",
+      "expiration_date": "2025-05-10",
+      "required_skills": "Problem Solving,Team Collaboration,Python,Logistics Management,Renewable Energy Systems,Django",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 19,
+    "fields": {
+      "title": "Agile Coach (Test Job #9)",
+      "desc": "We are looking for a talented Agile Coach to join our dynamic team at Green Energy Co.. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "52594~119156",
+      "salary_range_avg": "85875.00",
+      "company_name": "Green Energy Co.",
+      "posting_date": "2025-03-17",
+      "expiration_date": "2025-06-15",
+      "required_skills": "Medical Laboratory Techniques,Python,Team Collaboration,Agile Methodologies",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 20,
+    "fields": {
+      "title": "Supply Chain Analyst (Test Job #10)",
+      "desc": "We are looking for a talented Supply Chain Analyst to join our dynamic team at Green Energy Co.. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "48996~97517",
+      "salary_range_avg": "73256.00",
+      "company_name": "Green Energy Co.",
+      "posting_date": "2025-03-14",
+      "expiration_date": "2025-06-12",
+      "required_skills": "React,Customer Service",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 21,
+    "fields": {
+      "title": "Cybersecurity Analyst (Test Job #1)",
+      "desc": "We are looking for a talented Cybersecurity Analyst to join our dynamic team at HealthFirst Diagnostics. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "面議",
+      "salary_range_avg": "40000.00",
+      "company_name": "HealthFirst Diagnostics",
+      "posting_date": "2025-02-18",
+      "expiration_date": "2025-05-19",
+      "required_skills": "Time Management,Cloud Computing,Supply Chain Optimization",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 22,
+    "fields": {
+      "title": "Education Program Manager (Test Job #2)",
+      "desc": "We are looking for a talented Education Program Manager to join our dynamic team at HealthFirst Diagnostics. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "48136~116057",
+      "salary_range_avg": "82096.00",
+      "company_name": "HealthFirst Diagnostics",
+      "posting_date": "2025-03-06",
+      "expiration_date": "2025-06-04",
+      "required_skills": "SEO,Logistics Management",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 23,
+    "fields": {
+      "title": "Logistics Coordinator (Test Job #3)",
+      "desc": "We are looking for a talented Logistics Coordinator to join our dynamic team at HealthFirst Diagnostics. Responsibilities include...",
+      "location": "San Francisco, CA",
+      "salary_range": "71248~112752",
+      "salary_range_avg": "92000.00",
+      "company_name": "HealthFirst Diagnostics",
+      "posting_date": "2025-03-07",
+      "expiration_date": "2025-06-05",
+      "required_skills": "Renewable Energy Systems,React",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 24,
+    "fields": {
+      "title": "Senior Python Developer (Test Job #4)",
+      "desc": "We are looking for a talented Senior Python Developer to join our dynamic team at HealthFirst Diagnostics. Responsibilities include...",
+      "location": "San Francisco, CA",
+      "salary_range": "63142~97876",
+      "salary_range_avg": "80509.00",
+      "company_name": "HealthFirst Diagnostics",
+      "posting_date": "2025-02-24",
+      "expiration_date": "2025-05-25",
+      "required_skills": "Team Collaboration,UI/UX Design,Medical Laboratory Techniques,Data Analysis",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 25,
+    "fields": {
+      "title": "Software Engineer (Test Job #5)",
+      "desc": "We are looking for a talented Software Engineer to join our dynamic team at HealthFirst Diagnostics. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "63757~87368",
+      "salary_range_avg": "75562.00",
+      "company_name": "HealthFirst Diagnostics",
+      "posting_date": "2025-03-29",
+      "expiration_date": "2025-06-27",
+      "required_skills": "Machine Learning,Cloud Computing,UI/UX Design",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 26,
+    "fields": {
+      "title": "Cybersecurity Analyst (Test Job #6)",
+      "desc": "We are looking for a talented Cybersecurity Analyst to join our dynamic team at HealthFirst Diagnostics. Responsibilities include...",
+      "location": "San Francisco, CA",
+      "salary_range": "57643~88516",
+      "salary_range_avg": "73079.00",
+      "company_name": "HealthFirst Diagnostics",
+      "posting_date": "2025-02-17",
+      "expiration_date": "2025-05-18",
+      "required_skills": "Django,Machine Learning,Renewable Energy Systems",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 27,
+    "fields": {
+      "title": "Healthcare Consultant (Test Job #7)",
+      "desc": "We are looking for a talented Healthcare Consultant to join our dynamic team at HealthFirst Diagnostics. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "54909~101188",
+      "salary_range_avg": "78048.00",
+      "company_name": "HealthFirst Diagnostics",
+      "posting_date": "2025-02-22",
+      "expiration_date": "2025-05-23",
+      "required_skills": "Logistics Management,Team Collaboration,Machine Learning",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 28,
+    "fields": {
+      "title": "Education Program Manager (Test Job #8)",
+      "desc": "We are looking for a talented Education Program Manager to join our dynamic team at HealthFirst Diagnostics. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "36024~81082",
+      "salary_range_avg": "58553.00",
+      "company_name": "HealthFirst Diagnostics",
+      "posting_date": "2025-02-28",
+      "expiration_date": "2025-05-29",
+      "required_skills": "Customer Service,Agile Methodologies,Supply Chain Optimization,Data Analysis,UI/UX Design,Django",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 29,
+    "fields": {
+      "title": "Cloud Solutions Architect (Test Job #9)",
+      "desc": "We are looking for a talented Cloud Solutions Architect to join our dynamic team at HealthFirst Diagnostics. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "77683~91747",
+      "salary_range_avg": "84715.00",
+      "company_name": "HealthFirst Diagnostics",
+      "posting_date": "2025-01-31",
+      "expiration_date": "2025-05-01",
+      "required_skills": "React,Data Analysis,Team Collaboration,Medical Laboratory Techniques,Cloud Computing,SEO",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 30,
+    "fields": {
+      "title": "Software Engineer (Test Job #10)",
+      "desc": "We are looking for a talented Software Engineer to join our dynamic team at HealthFirst Diagnostics. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "60746~118500",
+      "salary_range_avg": "89623.00",
+      "company_name": "HealthFirst Diagnostics",
+      "posting_date": "2025-02-03",
+      "expiration_date": "2025-05-04",
+      "required_skills": "Agile Methodologies,Time Management",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 31,
+    "fields": {
+      "title": "Frontend Developer (React) (Test Job #1)",
+      "desc": "We are looking for a talented Frontend Developer (React) to join our dynamic team at Creative Designs Agency. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "面議",
+      "salary_range_avg": "40000.00",
+      "company_name": "Creative Designs Agency",
+      "posting_date": "2025-02-25",
+      "expiration_date": "2025-05-26",
+      "required_skills": "UI/UX Design,Communication Skills,Machine Learning,Supply Chain Optimization,Data Analysis,Problem Solving",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 32,
+    "fields": {
+      "title": "UX/UI Designer (Test Job #2)",
+      "desc": "We are looking for a talented UX/UI Designer to join our dynamic team at Creative Designs Agency. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "74620~86537",
+      "salary_range_avg": "80578.00",
+      "company_name": "Creative Designs Agency",
+      "posting_date": "2025-03-26",
+      "expiration_date": "2025-06-24",
+      "required_skills": "Time Management,Team Collaboration",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 33,
+    "fields": {
+      "title": "Agile Coach (Test Job #3)",
+      "desc": "We are looking for a talented Agile Coach to join our dynamic team at Creative Designs Agency. Responsibilities include...",
+      "location": "New York, NY",
+      "salary_range": "72203~91145",
+      "salary_range_avg": "81674.00",
+      "company_name": "Creative Designs Agency",
+      "posting_date": "2025-03-06",
+      "expiration_date": "2025-06-04",
+      "required_skills": "Cloud Computing,Logistics Management,SEO",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 34,
+    "fields": {
+      "title": "Software Engineer (Test Job #4)",
+      "desc": "We are looking for a talented Software Engineer to join our dynamic team at Creative Designs Agency. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "58505~88158",
+      "salary_range_avg": "73331.00",
+      "company_name": "Creative Designs Agency",
+      "posting_date": "2025-03-08",
+      "expiration_date": "2025-06-06",
+      "required_skills": "Cloud Computing,Machine Learning,Logistics Management,Project Management,SEO,Data Analysis",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 35,
+    "fields": {
+      "title": "Agile Coach (Test Job #5)",
+      "desc": "We are looking for a talented Agile Coach to join our dynamic team at Creative Designs Agency. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "50839~98612",
+      "salary_range_avg": "74725.00",
+      "company_name": "Creative Designs Agency",
+      "posting_date": "2025-03-26",
+      "expiration_date": "2025-06-24",
+      "required_skills": "UI/UX Design,Django,SEO,Renewable Energy Systems,React",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 36,
+    "fields": {
+      "title": "Logistics Coordinator (Test Job #6)",
+      "desc": "We are looking for a talented Logistics Coordinator to join our dynamic team at Creative Designs Agency. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "72594~111461",
+      "salary_range_avg": "92027.00",
+      "company_name": "Creative Designs Agency",
+      "posting_date": "2025-02-02",
+      "expiration_date": "2025-05-03",
+      "required_skills": "Logistics Management,Customer Service",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 37,
+    "fields": {
+      "title": "Cloud Solutions Architect (Test Job #7)",
+      "desc": "We are looking for a talented Cloud Solutions Architect to join our dynamic team at Creative Designs Agency. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "33825~115662",
+      "salary_range_avg": "74743.00",
+      "company_name": "Creative Designs Agency",
+      "posting_date": "2025-03-07",
+      "expiration_date": "2025-06-05",
+      "required_skills": "Agile Methodologies,Communication Skills",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 38,
+    "fields": {
+      "title": "Education Program Manager (Test Job #8)",
+      "desc": "We are looking for a talented Education Program Manager to join our dynamic team at Creative Designs Agency. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "32188~113477",
+      "salary_range_avg": "72832.00",
+      "company_name": "Creative Designs Agency",
+      "posting_date": "2025-03-24",
+      "expiration_date": "2025-06-22",
+      "required_skills": "Django,Logistics Management,Machine Learning,Cloud Computing,Medical Laboratory Techniques",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 39,
+    "fields": {
+      "title": "Sales Executive (Test Job #9)",
+      "desc": "We are looking for a talented Sales Executive to join our dynamic team at Creative Designs Agency. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "70297~117539",
+      "salary_range_avg": "93918.00",
+      "company_name": "Creative Designs Agency",
+      "posting_date": "2025-02-02",
+      "expiration_date": "2025-05-03",
+      "required_skills": "SEO,Problem Solving,Agile Methodologies,Customer Service,Renewable Energy Systems",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 40,
+    "fields": {
+      "title": "Logistics Coordinator (Test Job #10)",
+      "desc": "We are looking for a talented Logistics Coordinator to join our dynamic team at Creative Designs Agency. Responsibilities include...",
+      "location": "New York, NY",
+      "salary_range": "51146~89952",
+      "salary_range_avg": "70549.00",
+      "company_name": "Creative Designs Agency",
+      "posting_date": "2025-03-01",
+      "expiration_date": "2025-05-30",
+      "required_skills": "Agile Methodologies,Team Collaboration",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 41,
+    "fields": {
+      "title": "Product Manager (Test Job #1)",
+      "desc": "We are looking for a talented Product Manager to join our dynamic team at Global Logistics Ltd.. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "面議",
+      "salary_range_avg": "40000.00",
+      "company_name": "Global Logistics Ltd.",
+      "posting_date": "2025-02-25",
+      "expiration_date": "2025-05-26",
+      "required_skills": "Problem Solving,Team Collaboration,Customer Service,SEO",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 42,
+    "fields": {
+      "title": "Senior Python Developer (Test Job #2)",
+      "desc": "We are looking for a talented Senior Python Developer to join our dynamic team at Global Logistics Ltd.. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "66992~111894",
+      "salary_range_avg": "89443.00",
+      "company_name": "Global Logistics Ltd.",
+      "posting_date": "2025-03-18",
+      "expiration_date": "2025-06-16",
+      "required_skills": "Communication Skills,Time Management",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 43,
+    "fields": {
+      "title": "SEO Specialist (Test Job #3)",
+      "desc": "We are looking for a talented SEO Specialist to join our dynamic team at Global Logistics Ltd.. Responsibilities include...",
+      "location": "San Francisco, CA",
+      "salary_range": "35450~102423",
+      "salary_range_avg": "68936.00",
+      "company_name": "Global Logistics Ltd.",
+      "posting_date": "2025-02-21",
+      "expiration_date": "2025-05-22",
+      "required_skills": "Django,Time Management,Python",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 44,
+    "fields": {
+      "title": "Blockchain Developer (Test Job #4)",
+      "desc": "We are looking for a talented Blockchain Developer to join our dynamic team at Global Logistics Ltd.. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "75972~109563",
+      "salary_range_avg": "92767.00",
+      "company_name": "Global Logistics Ltd.",
+      "posting_date": "2025-03-02",
+      "expiration_date": "2025-05-31",
+      "required_skills": "Medical Laboratory Techniques,Machine Learning,SEO,Time Management",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 45,
+    "fields": {
+      "title": "Financial Analyst (Test Job #5)",
+      "desc": "We are looking for a talented Financial Analyst to join our dynamic team at Global Logistics Ltd.. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "51665~93168",
+      "salary_range_avg": "72416.00",
+      "company_name": "Global Logistics Ltd.",
+      "posting_date": "2025-02-08",
+      "expiration_date": "2025-05-09",
+      "required_skills": "Communication Skills,Cloud Computing,Time Management",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 46,
+    "fields": {
+      "title": "Renewable Energy Technician (Test Job #6)",
+      "desc": "We are looking for a talented Renewable Energy Technician to join our dynamic team at Global Logistics Ltd.. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "34380~112507",
+      "salary_range_avg": "73443.00",
+      "company_name": "Global Logistics Ltd.",
+      "posting_date": "2025-01-29",
+      "expiration_date": "2025-04-29",
+      "required_skills": "Problem Solving,JavaScript,Supply Chain Optimization,Project Management",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 47,
+    "fields": {
+      "title": "Financial Analyst (Test Job #7)",
+      "desc": "We are looking for a talented Financial Analyst to join our dynamic team at Global Logistics Ltd.. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "70407~118498",
+      "salary_range_avg": "94452.00",
+      "company_name": "Global Logistics Ltd.",
+      "posting_date": "2025-01-29",
+      "expiration_date": "2025-04-29",
+      "required_skills": "Cloud Computing,Project Management,Time Management",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 48,
+    "fields": {
+      "title": "Senior Python Developer (Test Job #8)",
+      "desc": "We are looking for a talented Senior Python Developer to join our dynamic team at Global Logistics Ltd.. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "68531~100511",
+      "salary_range_avg": "84521.00",
+      "company_name": "Global Logistics Ltd.",
+      "posting_date": "2025-02-22",
+      "expiration_date": "2025-05-23",
+      "required_skills": "Data Analysis,Logistics Management,Communication Skills,Renewable Energy Systems,Cloud Computing",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 49,
+    "fields": {
+      "title": "UX/UI Designer (Test Job #9)",
+      "desc": "We are looking for a talented UX/UI Designer to join our dynamic team at Global Logistics Ltd.. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "70894~82760",
+      "salary_range_avg": "76827.00",
+      "company_name": "Global Logistics Ltd.",
+      "posting_date": "2025-02-09",
+      "expiration_date": "2025-05-10",
+      "required_skills": "React,Agile Methodologies,Project Management,Supply Chain Optimization,Medical Laboratory Techniques",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 50,
+    "fields": {
+      "title": "Agile Coach (Test Job #10)",
+      "desc": "We are looking for a talented Agile Coach to join our dynamic team at Global Logistics Ltd.. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "37282~90063",
+      "salary_range_avg": "63672.00",
+      "company_name": "Global Logistics Ltd.",
+      "posting_date": "2025-02-06",
+      "expiration_date": "2025-05-07",
+      "required_skills": "Time Management,Team Collaboration,Logistics Management",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 51,
+    "fields": {
+      "title": "Logistics Coordinator (Test Job #1)",
+      "desc": "We are looking for a talented Logistics Coordinator to join our dynamic team at Innovative Marketing Group. Responsibilities include...",
+      "location": "New York, NY",
+      "salary_range": "面議",
+      "salary_range_avg": "40000.00",
+      "company_name": "Innovative Marketing Group",
+      "posting_date": "2025-01-29",
+      "expiration_date": "2025-04-29",
+      "required_skills": "Machine Learning,Logistics Management",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 52,
+    "fields": {
+      "title": "Frontend Developer (React) (Test Job #2)",
+      "desc": "We are looking for a talented Frontend Developer (React) to join our dynamic team at Innovative Marketing Group. Responsibilities include...",
+      "location": "New York, NY",
+      "salary_range": "41153~104480",
+      "salary_range_avg": "72816.00",
+      "company_name": "Innovative Marketing Group",
+      "posting_date": "2025-02-08",
+      "expiration_date": "2025-05-09",
+      "required_skills": "JavaScript,Cloud Computing,Project Management,Data Analysis,Medical Laboratory Techniques,Communication Skills",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 53,
+    "fields": {
+      "title": "Product Manager (Test Job #3)",
+      "desc": "We are looking for a talented Product Manager to join our dynamic team at Innovative Marketing Group. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "55774~99605",
+      "salary_range_avg": "77689.00",
+      "company_name": "Innovative Marketing Group",
+      "posting_date": "2025-03-27",
+      "expiration_date": "2025-06-25",
+      "required_skills": "Customer Service,Renewable Energy Systems,Supply Chain Optimization,UI/UX Design",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 54,
+    "fields": {
+      "title": "Agile Coach (Test Job #4)",
+      "desc": "We are looking for a talented Agile Coach to join our dynamic team at Innovative Marketing Group. Responsibilities include...",
+      "location": "New York, NY",
+      "salary_range": "60512~82740",
+      "salary_range_avg": "71626.00",
+      "company_name": "Innovative Marketing Group",
+      "posting_date": "2025-03-15",
+      "expiration_date": "2025-06-13",
+      "required_skills": "Agile Methodologies,Django,Team Collaboration,Data Analysis",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 55,
+    "fields": {
+      "title": "Data Scientist (Test Job #5)",
+      "desc": "We are looking for a talented Data Scientist to join our dynamic team at Innovative Marketing Group. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "49417~106442",
+      "salary_range_avg": "77929.00",
+      "company_name": "Innovative Marketing Group",
+      "posting_date": "2025-02-06",
+      "expiration_date": "2025-05-07",
+      "required_skills": "SEO,Logistics Management,Data Analysis,UI/UX Design",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 56,
+    "fields": {
+      "title": "Medical Lab Scientist (Test Job #6)",
+      "desc": "We are looking for a talented Medical Lab Scientist to join our dynamic team at Innovative Marketing Group. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "44748~113156",
+      "salary_range_avg": "78952.00",
+      "company_name": "Innovative Marketing Group",
+      "posting_date": "2025-02-12",
+      "expiration_date": "2025-05-13",
+      "required_skills": "Team Collaboration,Communication Skills,Time Management,UI/UX Design,Problem Solving,SEO",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 57,
+    "fields": {
+      "title": "Healthcare Consultant (Test Job #7)",
+      "desc": "We are looking for a talented Healthcare Consultant to join our dynamic team at Innovative Marketing Group. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "56040~82589",
+      "salary_range_avg": "69314.00",
+      "company_name": "Innovative Marketing Group",
+      "posting_date": "2025-02-12",
+      "expiration_date": "2025-05-13",
+      "required_skills": "Django,Machine Learning,Problem Solving",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 58,
+    "fields": {
+      "title": "Medical Lab Scientist (Test Job #8)",
+      "desc": "We are looking for a talented Medical Lab Scientist to join our dynamic team at Innovative Marketing Group. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "53509~107883",
+      "salary_range_avg": "80696.00",
+      "company_name": "Innovative Marketing Group",
+      "posting_date": "2025-03-24",
+      "expiration_date": "2025-06-22",
+      "required_skills": "Team Collaboration,Machine Learning,Customer Service,SEO",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 59,
+    "fields": {
+      "title": "Data Scientist (Test Job #9)",
+      "desc": "We are looking for a talented Data Scientist to join our dynamic team at Innovative Marketing Group. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "55059~95705",
+      "salary_range_avg": "75382.00",
+      "company_name": "Innovative Marketing Group",
+      "posting_date": "2025-03-03",
+      "expiration_date": "2025-06-01",
+      "required_skills": "UI/UX Design,Python,Renewable Energy Systems,Problem Solving,Machine Learning,Project Management",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 60,
+    "fields": {
+      "title": "Operations Manager (Test Job #10)",
+      "desc": "We are looking for a talented Operations Manager to join our dynamic team at Innovative Marketing Group. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "37051~114385",
+      "salary_range_avg": "75718.00",
+      "company_name": "Innovative Marketing Group",
+      "posting_date": "2025-03-05",
+      "expiration_date": "2025-06-03",
+      "required_skills": "Medical Laboratory Techniques,Django,Team Collaboration,Problem Solving,Machine Learning",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 61,
+    "fields": {
+      "title": "Logistics Coordinator (Test Job #1)",
+      "desc": "We are looking for a talented Logistics Coordinator to join our dynamic team at Future Tech Innovations. Responsibilities include...",
+      "location": "New York, NY",
+      "salary_range": "面議",
+      "salary_range_avg": "40000.00",
+      "company_name": "Future Tech Innovations",
+      "posting_date": "2025-02-09",
+      "expiration_date": "2025-05-10",
+      "required_skills": "UI/UX Design,Supply Chain Optimization,Project Management,Team Collaboration",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 62,
+    "fields": {
+      "title": "Supply Chain Analyst (Test Job #2)",
+      "desc": "We are looking for a talented Supply Chain Analyst to join our dynamic team at Future Tech Innovations. Responsibilities include...",
+      "location": "San Francisco, CA",
+      "salary_range": "44799~109195",
+      "salary_range_avg": "76997.00",
+      "company_name": "Future Tech Innovations",
+      "posting_date": "2025-03-20",
+      "expiration_date": "2025-06-18",
+      "required_skills": "React,Problem Solving,Communication Skills,Customer Service,UI/UX Design",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 63,
+    "fields": {
+      "title": "Sales Executive (Test Job #3)",
+      "desc": "We are looking for a talented Sales Executive to join our dynamic team at Future Tech Innovations. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "34293~111952",
+      "salary_range_avg": "73122.00",
+      "company_name": "Future Tech Innovations",
+      "posting_date": "2025-03-23",
+      "expiration_date": "2025-06-21",
+      "required_skills": "Django,Medical Laboratory Techniques,React,Python,Problem Solving",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 64,
+    "fields": {
+      "title": "Senior Python Developer (Test Job #4)",
+      "desc": "We are looking for a talented Senior Python Developer to join our dynamic team at Future Tech Innovations. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "60157~90624",
+      "salary_range_avg": "75390.00",
+      "company_name": "Future Tech Innovations",
+      "posting_date": "2025-03-10",
+      "expiration_date": "2025-06-08",
+      "required_skills": "Logistics Management,Supply Chain Optimization,Machine Learning,Medical Laboratory Techniques,Agile Methodologies,Renewable Energy Systems",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 65,
+    "fields": {
+      "title": "Operations Manager (Test Job #5)",
+      "desc": "We are looking for a talented Operations Manager to join our dynamic team at Future Tech Innovations. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "57454~119149",
+      "salary_range_avg": "88301.00",
+      "company_name": "Future Tech Innovations",
+      "posting_date": "2025-03-12",
+      "expiration_date": "2025-06-10",
+      "required_skills": "Team Collaboration,Machine Learning,Supply Chain Optimization",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 66,
+    "fields": {
+      "title": "Blockchain Developer (Test Job #6)",
+      "desc": "We are looking for a talented Blockchain Developer to join our dynamic team at Future Tech Innovations. Responsibilities include...",
+      "location": "New York, NY",
+      "salary_range": "59665~100547",
+      "salary_range_avg": "80106.00",
+      "company_name": "Future Tech Innovations",
+      "posting_date": "2025-02-19",
+      "expiration_date": "2025-05-20",
+      "required_skills": "UI/UX Design,Problem Solving,Team Collaboration,Cloud Computing,Django,Data Analysis",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 67,
+    "fields": {
+      "title": "Agile Coach (Test Job #7)",
+      "desc": "We are looking for a talented Agile Coach to join our dynamic team at Future Tech Innovations. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "30795~103471",
+      "salary_range_avg": "67133.00",
+      "company_name": "Future Tech Innovations",
+      "posting_date": "2025-02-15",
+      "expiration_date": "2025-05-16",
+      "required_skills": "Supply Chain Optimization,Cloud Computing,Project Management,Django,Renewable Energy Systems",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 68,
+    "fields": {
+      "title": "AI Research Scientist (Test Job #8)",
+      "desc": "We are looking for a talented AI Research Scientist to join our dynamic team at Future Tech Innovations. Responsibilities include...",
+      "location": "San Francisco, CA",
+      "salary_range": "77817~103633",
+      "salary_range_avg": "90725.00",
+      "company_name": "Future Tech Innovations",
+      "posting_date": "2025-02-03",
+      "expiration_date": "2025-05-04",
+      "required_skills": "JavaScript,Team Collaboration,Renewable Energy Systems,Medical Laboratory Techniques,Customer Service,SEO",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 69,
+    "fields": {
+      "title": "Medical Lab Scientist (Test Job #9)",
+      "desc": "We are looking for a talented Medical Lab Scientist to join our dynamic team at Future Tech Innovations. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "42457~108558",
+      "salary_range_avg": "75507.00",
+      "company_name": "Future Tech Innovations",
+      "posting_date": "2025-03-01",
+      "expiration_date": "2025-05-30",
+      "required_skills": "Renewable Energy Systems,Project Management",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 70,
+    "fields": {
+      "title": "Financial Analyst (Test Job #10)",
+      "desc": "We are looking for a talented Financial Analyst to join our dynamic team at Future Tech Innovations. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "43481~87756",
+      "salary_range_avg": "65618.00",
+      "company_name": "Future Tech Innovations",
+      "posting_date": "2025-03-04",
+      "expiration_date": "2025-06-02",
+      "required_skills": "Project Management,UI/UX Design,Python",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 71,
+    "fields": {
+      "title": "Healthcare Consultant (Test Job #1)",
+      "desc": "We are looking for a talented Healthcare Consultant to join our dynamic team at Smart Home Systems. Responsibilities include...",
+      "location": "San Francisco, CA",
+      "salary_range": "面議",
+      "salary_range_avg": "40000.00",
+      "company_name": "Smart Home Systems",
+      "posting_date": "2025-02-07",
+      "expiration_date": "2025-05-08",
+      "required_skills": "Customer Service,Cloud Computing,Supply Chain Optimization,Renewable Energy Systems,Medical Laboratory Techniques",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 72,
+    "fields": {
+      "title": "Blockchain Developer (Test Job #2)",
+      "desc": "We are looking for a talented Blockchain Developer to join our dynamic team at Smart Home Systems. Responsibilities include...",
+      "location": "New York, NY",
+      "salary_range": "51927~99101",
+      "salary_range_avg": "75514.00",
+      "company_name": "Smart Home Systems",
+      "posting_date": "2025-02-14",
+      "expiration_date": "2025-05-15",
+      "required_skills": "Django,Medical Laboratory Techniques",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 73,
+    "fields": {
+      "title": "UX/UI Designer (Test Job #3)",
+      "desc": "We are looking for a talented UX/UI Designer to join our dynamic team at Smart Home Systems. Responsibilities include...",
+      "location": "San Francisco, CA",
+      "salary_range": "65642~117026",
+      "salary_range_avg": "91334.00",
+      "company_name": "Smart Home Systems",
+      "posting_date": "2025-03-03",
+      "expiration_date": "2025-06-01",
+      "required_skills": "Agile Methodologies,Communication Skills,Project Management,SEO,React",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 74,
+    "fields": {
+      "title": "Frontend Developer (React) (Test Job #4)",
+      "desc": "We are looking for a talented Frontend Developer (React) to join our dynamic team at Smart Home Systems. Responsibilities include...",
+      "location": "San Francisco, CA",
+      "salary_range": "67979~85812",
+      "salary_range_avg": "76895.00",
+      "company_name": "Smart Home Systems",
+      "posting_date": "2025-03-17",
+      "expiration_date": "2025-06-15",
+      "required_skills": "Agile Methodologies,UI/UX Design,Data Analysis,Logistics Management",
+      "created_at": "2025-05-28T16:51:24.118Z",
+      "updated_at": "2025-05-28T16:51:24.118Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 75,
+    "fields": {
+      "title": "SEO Specialist (Test Job #5)",
+      "desc": "We are looking for a talented SEO Specialist to join our dynamic team at Smart Home Systems. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "48247~98904",
+      "salary_range_avg": "73575.00",
+      "company_name": "Smart Home Systems",
+      "posting_date": "2025-03-24",
+      "expiration_date": "2025-06-22",
+      "required_skills": "Customer Service,React,Cloud Computing,Data Analysis,Problem Solving,Logistics Management",
+      "created_at": "2025-05-28T16:51:24.119Z",
+      "updated_at": "2025-05-28T16:51:24.119Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 76,
+    "fields": {
+      "title": "Healthcare Consultant (Test Job #6)",
+      "desc": "We are looking for a talented Healthcare Consultant to join our dynamic team at Smart Home Systems. Responsibilities include...",
+      "location": "New York, NY",
+      "salary_range": "55441~98960",
+      "salary_range_avg": "77200.00",
+      "company_name": "Smart Home Systems",
+      "posting_date": "2025-03-24",
+      "expiration_date": "2025-06-22",
+      "required_skills": "Customer Service,Cloud Computing,Problem Solving,Communication Skills,UI/UX Design",
+      "created_at": "2025-05-28T16:51:24.119Z",
+      "updated_at": "2025-05-28T16:51:24.119Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 77,
+    "fields": {
+      "title": "UX/UI Designer (Test Job #7)",
+      "desc": "We are looking for a talented UX/UI Designer to join our dynamic team at Smart Home Systems. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "39140~101396",
+      "salary_range_avg": "70268.00",
+      "company_name": "Smart Home Systems",
+      "posting_date": "2025-03-30",
+      "expiration_date": "2025-06-28",
+      "required_skills": "Logistics Management,Communication Skills,Team Collaboration",
+      "created_at": "2025-05-28T16:51:24.119Z",
+      "updated_at": "2025-05-28T16:51:24.119Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 78,
+    "fields": {
+      "title": "Education Program Manager (Test Job #8)",
+      "desc": "We are looking for a talented Education Program Manager to join our dynamic team at Smart Home Systems. Responsibilities include...",
+      "location": "San Francisco, CA",
+      "salary_range": "36063~88194",
+      "salary_range_avg": "62128.00",
+      "company_name": "Smart Home Systems",
+      "posting_date": "2025-02-16",
+      "expiration_date": "2025-05-17",
+      "required_skills": "Data Analysis,React,Communication Skills,Project Management",
+      "created_at": "2025-05-28T16:51:24.119Z",
+      "updated_at": "2025-05-28T16:51:24.119Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 79,
+    "fields": {
+      "title": "Operations Manager (Test Job #9)",
+      "desc": "We are looking for a talented Operations Manager to join our dynamic team at Smart Home Systems. Responsibilities include...",
+      "location": "New York, NY",
+      "salary_range": "57422~106334",
+      "salary_range_avg": "81878.00",
+      "company_name": "Smart Home Systems",
+      "posting_date": "2025-03-21",
+      "expiration_date": "2025-06-19",
+      "required_skills": "UI/UX Design,SEO,Time Management,Communication Skills,Medical Laboratory Techniques,Python",
+      "created_at": "2025-05-28T16:51:24.119Z",
+      "updated_at": "2025-05-28T16:51:24.119Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 80,
+    "fields": {
+      "title": "Healthcare Consultant (Test Job #10)",
+      "desc": "We are looking for a talented Healthcare Consultant to join our dynamic team at Smart Home Systems. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "38637~104441",
+      "salary_range_avg": "71539.00",
+      "company_name": "Smart Home Systems",
+      "posting_date": "2025-03-24",
+      "expiration_date": "2025-06-22",
+      "required_skills": "Project Management,Supply Chain Optimization,Python,Problem Solving",
+      "created_at": "2025-05-28T16:51:24.119Z",
+      "updated_at": "2025-05-28T16:51:24.119Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 81,
+    "fields": {
+      "title": "Product Manager (Test Job #1)",
+      "desc": "We are looking for a talented Product Manager to join our dynamic team at Urban Development Corp.. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "面議",
+      "salary_range_avg": "40000.00",
+      "company_name": "Urban Development Corp.",
+      "posting_date": "2025-02-23",
+      "expiration_date": "2025-05-24",
+      "required_skills": "Django,Data Analysis,Project Management",
+      "created_at": "2025-05-28T16:51:24.119Z",
+      "updated_at": "2025-05-28T16:51:24.119Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 82,
+    "fields": {
+      "title": "SEO Specialist (Test Job #2)",
+      "desc": "We are looking for a talented SEO Specialist to join our dynamic team at Urban Development Corp.. Responsibilities include...",
+      "location": "San Francisco, CA",
+      "salary_range": "30710~112107",
+      "salary_range_avg": "71408.00",
+      "company_name": "Urban Development Corp.",
+      "posting_date": "2025-03-29",
+      "expiration_date": "2025-06-27",
+      "required_skills": "Medical Laboratory Techniques,Cloud Computing,Python,Communication Skills,SEO",
+      "created_at": "2025-05-28T16:51:24.119Z",
+      "updated_at": "2025-05-28T16:51:24.119Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 83,
+    "fields": {
+      "title": "Cybersecurity Analyst (Test Job #3)",
+      "desc": "We are looking for a talented Cybersecurity Analyst to join our dynamic team at Urban Development Corp.. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "76527~85761",
+      "salary_range_avg": "81144.00",
+      "company_name": "Urban Development Corp.",
+      "posting_date": "2025-03-15",
+      "expiration_date": "2025-06-13",
+      "required_skills": "Django,UI/UX Design,JavaScript,Problem Solving",
+      "created_at": "2025-05-28T16:51:24.119Z",
+      "updated_at": "2025-05-28T16:51:24.119Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 84,
+    "fields": {
+      "title": "Agile Coach (Test Job #4)",
+      "desc": "We are looking for a talented Agile Coach to join our dynamic team at Urban Development Corp.. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "59752~95224",
+      "salary_range_avg": "77488.00",
+      "company_name": "Urban Development Corp.",
+      "posting_date": "2025-03-03",
+      "expiration_date": "2025-06-01",
+      "required_skills": "Agile Methodologies,SEO,Communication Skills,Django,Logistics Management,UI/UX Design",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 85,
+    "fields": {
+      "title": "SEO Specialist (Test Job #5)",
+      "desc": "We are looking for a talented SEO Specialist to join our dynamic team at Urban Development Corp.. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "75003~82367",
+      "salary_range_avg": "78685.00",
+      "company_name": "Urban Development Corp.",
+      "posting_date": "2025-02-23",
+      "expiration_date": "2025-05-24",
+      "required_skills": "Supply Chain Optimization,Renewable Energy Systems,SEO,Communication Skills,Medical Laboratory Techniques,Project Management",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 86,
+    "fields": {
+      "title": "Cybersecurity Analyst (Test Job #6)",
+      "desc": "We are looking for a talented Cybersecurity Analyst to join our dynamic team at Urban Development Corp.. Responsibilities include...",
+      "location": "San Francisco, CA",
+      "salary_range": "49783~109351",
+      "salary_range_avg": "79567.00",
+      "company_name": "Urban Development Corp.",
+      "posting_date": "2025-03-16",
+      "expiration_date": "2025-06-14",
+      "required_skills": "Customer Service,Medical Laboratory Techniques,React",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 87,
+    "fields": {
+      "title": "Marketing Specialist (Test Job #7)",
+      "desc": "We are looking for a talented Marketing Specialist to join our dynamic team at Urban Development Corp.. Responsibilities include...",
+      "location": "New York, NY",
+      "salary_range": "66170~87302",
+      "salary_range_avg": "76736.00",
+      "company_name": "Urban Development Corp.",
+      "posting_date": "2025-02-04",
+      "expiration_date": "2025-05-05",
+      "required_skills": "JavaScript,Logistics Management,Time Management,Django,Customer Service,Medical Laboratory Techniques",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 88,
+    "fields": {
+      "title": "Medical Lab Scientist (Test Job #8)",
+      "desc": "We are looking for a talented Medical Lab Scientist to join our dynamic team at Urban Development Corp.. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "59316~102098",
+      "salary_range_avg": "80707.00",
+      "company_name": "Urban Development Corp.",
+      "posting_date": "2025-03-21",
+      "expiration_date": "2025-06-19",
+      "required_skills": "JavaScript,Medical Laboratory Techniques,Agile Methodologies",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 89,
+    "fields": {
+      "title": "AI Research Scientist (Test Job #9)",
+      "desc": "We are looking for a talented AI Research Scientist to join our dynamic team at Urban Development Corp.. Responsibilities include...",
+      "location": "New York, NY",
+      "salary_range": "31958~81574",
+      "salary_range_avg": "56766.00",
+      "company_name": "Urban Development Corp.",
+      "posting_date": "2025-03-06",
+      "expiration_date": "2025-06-04",
+      "required_skills": "Medical Laboratory Techniques,Project Management,Machine Learning",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 90,
+    "fields": {
+      "title": "Project Coordinator (Test Job #10)",
+      "desc": "We are looking for a talented Project Coordinator to join our dynamic team at Urban Development Corp.. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "48597~96512",
+      "salary_range_avg": "72554.00",
+      "company_name": "Urban Development Corp.",
+      "posting_date": "2025-02-26",
+      "expiration_date": "2025-05-27",
+      "required_skills": "JavaScript,SEO,Agile Methodologies,Renewable Energy Systems,Problem Solving,Logistics Management",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 91,
+    "fields": {
+      "title": "Frontend Developer (React) (Test Job #1)",
+      "desc": "We are looking for a talented Frontend Developer (React) to join our dynamic team at Digital Media Hub. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "面議",
+      "salary_range_avg": "40000.00",
+      "company_name": "Digital Media Hub",
+      "posting_date": "2025-02-03",
+      "expiration_date": "2025-05-04",
+      "required_skills": "UI/UX Design,Medical Laboratory Techniques",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 92,
+    "fields": {
+      "title": "Renewable Energy Technician (Test Job #2)",
+      "desc": "We are looking for a talented Renewable Energy Technician to join our dynamic team at Digital Media Hub. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "61293~87229",
+      "salary_range_avg": "74261.00",
+      "company_name": "Digital Media Hub",
+      "posting_date": "2025-02-02",
+      "expiration_date": "2025-05-03",
+      "required_skills": "Customer Service,Data Analysis,Renewable Energy Systems,Python",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 93,
+    "fields": {
+      "title": "Agile Coach (Test Job #3)",
+      "desc": "We are looking for a talented Agile Coach to join our dynamic team at Digital Media Hub. Responsibilities include...",
+      "location": "San Francisco, CA",
+      "salary_range": "44678~104604",
+      "salary_range_avg": "74641.00",
+      "company_name": "Digital Media Hub",
+      "posting_date": "2025-03-28",
+      "expiration_date": "2025-06-26",
+      "required_skills": "Agile Methodologies,Time Management,SEO,Logistics Management",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 94,
+    "fields": {
+      "title": "Software Engineer (Test Job #4)",
+      "desc": "We are looking for a talented Software Engineer to join our dynamic team at Digital Media Hub. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "39122~117542",
+      "salary_range_avg": "78332.00",
+      "company_name": "Digital Media Hub",
+      "posting_date": "2025-03-27",
+      "expiration_date": "2025-06-25",
+      "required_skills": "Time Management,SEO",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 95,
+    "fields": {
+      "title": "Supply Chain Analyst (Test Job #5)",
+      "desc": "We are looking for a talented Supply Chain Analyst to join our dynamic team at Digital Media Hub. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "64372~94091",
+      "salary_range_avg": "79231.00",
+      "company_name": "Digital Media Hub",
+      "posting_date": "2025-03-01",
+      "expiration_date": "2025-05-30",
+      "required_skills": "JavaScript,Python,Problem Solving",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 96,
+    "fields": {
+      "title": "Marketing Specialist (Test Job #6)",
+      "desc": "We are looking for a talented Marketing Specialist to join our dynamic team at Digital Media Hub. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "56009~95513",
+      "salary_range_avg": "75761.00",
+      "company_name": "Digital Media Hub",
+      "posting_date": "2025-03-07",
+      "expiration_date": "2025-06-05",
+      "required_skills": "Customer Service,Team Collaboration,Problem Solving,Project Management,Renewable Energy Systems,JavaScript",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 97,
+    "fields": {
+      "title": "Data Scientist (Test Job #7)",
+      "desc": "We are looking for a talented Data Scientist to join our dynamic team at Digital Media Hub. Responsibilities include...",
+      "location": "New York, NY",
+      "salary_range": "71127~89810",
+      "salary_range_avg": "80468.00",
+      "company_name": "Digital Media Hub",
+      "posting_date": "2025-03-23",
+      "expiration_date": "2025-06-21",
+      "required_skills": "Project Management,Problem Solving,Medical Laboratory Techniques,Customer Service,Logistics Management,Renewable Energy Systems",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 98,
+    "fields": {
+      "title": "Senior Python Developer (Test Job #8)",
+      "desc": "We are looking for a talented Senior Python Developer to join our dynamic team at Digital Media Hub. Responsibilities include...",
+      "location": "New York, NY",
+      "salary_range": "39917~114571",
+      "salary_range_avg": "77244.00",
+      "company_name": "Digital Media Hub",
+      "posting_date": "2025-03-29",
+      "expiration_date": "2025-06-27",
+      "required_skills": "Time Management,JavaScript,Machine Learning,Customer Service,Cloud Computing",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 99,
+    "fields": {
+      "title": "Logistics Coordinator (Test Job #9)",
+      "desc": "We are looking for a talented Logistics Coordinator to join our dynamic team at Digital Media Hub. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "72815~91480",
+      "salary_range_avg": "82147.00",
+      "company_name": "Digital Media Hub",
+      "posting_date": "2025-03-14",
+      "expiration_date": "2025-06-12",
+      "required_skills": "Logistics Management,Python,Communication Skills,Team Collaboration,JavaScript,UI/UX Design",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 100,
+    "fields": {
+      "title": "Product Manager (Test Job #10)",
+      "desc": "We are looking for a talented Product Manager to join our dynamic team at Digital Media Hub. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "39495~119009",
+      "salary_range_avg": "79252.00",
+      "company_name": "Digital Media Hub",
+      "posting_date": "2025-02-16",
+      "expiration_date": "2025-05-17",
+      "required_skills": "Machine Learning,Problem Solving,Django,React",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 101,
+    "fields": {
+      "title": "Cybersecurity Analyst (Test Job #1)",
+      "desc": "We are looking for a talented Cybersecurity Analyst to join our dynamic team at Cloud Services Global. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "面議",
+      "salary_range_avg": "40000.00",
+      "company_name": "Cloud Services Global",
+      "posting_date": "2025-02-04",
+      "expiration_date": "2025-05-05",
+      "required_skills": "Machine Learning,Python,Django,Agile Methodologies,Problem Solving,Renewable Energy Systems",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 102,
+    "fields": {
+      "title": "Education Program Manager (Test Job #2)",
+      "desc": "We are looking for a talented Education Program Manager to join our dynamic team at Cloud Services Global. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "58819~116876",
+      "salary_range_avg": "87847.00",
+      "company_name": "Cloud Services Global",
+      "posting_date": "2025-02-09",
+      "expiration_date": "2025-05-10",
+      "required_skills": "Renewable Energy Systems,Communication Skills,Python",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 103,
+    "fields": {
+      "title": "Healthcare Consultant (Test Job #3)",
+      "desc": "We are looking for a talented Healthcare Consultant to join our dynamic team at Cloud Services Global. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "62603~86563",
+      "salary_range_avg": "74583.00",
+      "company_name": "Cloud Services Global",
+      "posting_date": "2025-02-03",
+      "expiration_date": "2025-05-04",
+      "required_skills": "Python,React,SEO,UI/UX Design",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 104,
+    "fields": {
+      "title": "Financial Analyst (Test Job #4)",
+      "desc": "We are looking for a talented Financial Analyst to join our dynamic team at Cloud Services Global. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "34401~84385",
+      "salary_range_avg": "59393.00",
+      "company_name": "Cloud Services Global",
+      "posting_date": "2025-02-06",
+      "expiration_date": "2025-05-07",
+      "required_skills": "Medical Laboratory Techniques,Project Management,Cloud Computing,Supply Chain Optimization",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 105,
+    "fields": {
+      "title": "Project Coordinator (Test Job #5)",
+      "desc": "We are looking for a talented Project Coordinator to join our dynamic team at Cloud Services Global. Responsibilities include...",
+      "location": "New York, NY",
+      "salary_range": "38077~91575",
+      "salary_range_avg": "64826.00",
+      "company_name": "Cloud Services Global",
+      "posting_date": "2025-02-05",
+      "expiration_date": "2025-05-06",
+      "required_skills": "Machine Learning,Team Collaboration,Communication Skills,Medical Laboratory Techniques,Customer Service,Problem Solving",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 106,
+    "fields": {
+      "title": "Agile Coach (Test Job #6)",
+      "desc": "We are looking for a talented Agile Coach to join our dynamic team at Cloud Services Global. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "57426~98096",
+      "salary_range_avg": "77761.00",
+      "company_name": "Cloud Services Global",
+      "posting_date": "2025-03-07",
+      "expiration_date": "2025-06-05",
+      "required_skills": "Machine Learning,Time Management,Communication Skills,Django",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 107,
+    "fields": {
+      "title": "Data Scientist (Test Job #7)",
+      "desc": "We are looking for a talented Data Scientist to join our dynamic team at Cloud Services Global. Responsibilities include...",
+      "location": "New York, NY",
+      "salary_range": "62420~96876",
+      "salary_range_avg": "79648.00",
+      "company_name": "Cloud Services Global",
+      "posting_date": "2025-03-23",
+      "expiration_date": "2025-06-21",
+      "required_skills": "Django,Problem Solving,Project Management,SEO,Medical Laboratory Techniques",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 108,
+    "fields": {
+      "title": "Renewable Energy Technician (Test Job #8)",
+      "desc": "We are looking for a talented Renewable Energy Technician to join our dynamic team at Cloud Services Global. Responsibilities include...",
+      "location": "San Francisco, CA",
+      "salary_range": "79684~84386",
+      "salary_range_avg": "82035.00",
+      "company_name": "Cloud Services Global",
+      "posting_date": "2025-02-13",
+      "expiration_date": "2025-05-14",
+      "required_skills": "Time Management,Logistics Management,Agile Methodologies",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 109,
+    "fields": {
+      "title": "AI Research Scientist (Test Job #9)",
+      "desc": "We are looking for a talented AI Research Scientist to join our dynamic team at Cloud Services Global. Responsibilities include...",
+      "location": "San Francisco, CA",
+      "salary_range": "71361~94309",
+      "salary_range_avg": "82835.00",
+      "company_name": "Cloud Services Global",
+      "posting_date": "2025-03-02",
+      "expiration_date": "2025-05-31",
+      "required_skills": "Machine Learning,Customer Service,Supply Chain Optimization,Time Management,Agile Methodologies,Logistics Management",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 110,
+    "fields": {
+      "title": "Operations Manager (Test Job #10)",
+      "desc": "We are looking for a talented Operations Manager to join our dynamic team at Cloud Services Global. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "42347~88089",
+      "salary_range_avg": "65218.00",
+      "company_name": "Cloud Services Global",
+      "posting_date": "2025-03-26",
+      "expiration_date": "2025-06-24",
+      "required_skills": "Data Analysis,Team Collaboration,Logistics Management,Django,Communication Skills,Customer Service",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 111,
+    "fields": {
+      "title": "Project Coordinator (Test Job #1)",
+      "desc": "We are looking for a talented Project Coordinator to join our dynamic team at E-commerce Ventures. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "面議",
+      "salary_range_avg": "40000.00",
+      "company_name": "E-commerce Ventures",
+      "posting_date": "2025-02-15",
+      "expiration_date": "2025-05-16",
+      "required_skills": "Logistics Management,Medical Laboratory Techniques,Renewable Energy Systems,SEO,Django",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 112,
+    "fields": {
+      "title": "Sales Executive (Test Job #2)",
+      "desc": "We are looking for a talented Sales Executive to join our dynamic team at E-commerce Ventures. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "40096~104286",
+      "salary_range_avg": "72191.00",
+      "company_name": "E-commerce Ventures",
+      "posting_date": "2025-03-08",
+      "expiration_date": "2025-06-06",
+      "required_skills": "Time Management,Communication Skills,Renewable Energy Systems,Supply Chain Optimization,Machine Learning,Logistics Management",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 113,
+    "fields": {
+      "title": "Logistics Coordinator (Test Job #3)",
+      "desc": "We are looking for a talented Logistics Coordinator to join our dynamic team at E-commerce Ventures. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "39280~111774",
+      "salary_range_avg": "75527.00",
+      "company_name": "E-commerce Ventures",
+      "posting_date": "2025-02-20",
+      "expiration_date": "2025-05-21",
+      "required_skills": "Supply Chain Optimization,UI/UX Design",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 114,
+    "fields": {
+      "title": "Data Scientist (Test Job #4)",
+      "desc": "We are looking for a talented Data Scientist to join our dynamic team at E-commerce Ventures. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "62720~110494",
+      "salary_range_avg": "86607.00",
+      "company_name": "E-commerce Ventures",
+      "posting_date": "2025-02-10",
+      "expiration_date": "2025-05-11",
+      "required_skills": "UI/UX Design,Communication Skills,Customer Service",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 115,
+    "fields": {
+      "title": "Product Manager (Test Job #5)",
+      "desc": "We are looking for a talented Product Manager to join our dynamic team at E-commerce Ventures. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "73142~97718",
+      "salary_range_avg": "85430.00",
+      "company_name": "E-commerce Ventures",
+      "posting_date": "2025-01-30",
+      "expiration_date": "2025-04-30",
+      "required_skills": "Team Collaboration,Communication Skills,Renewable Energy Systems",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 116,
+    "fields": {
+      "title": "Education Program Manager (Test Job #6)",
+      "desc": "We are looking for a talented Education Program Manager to join our dynamic team at E-commerce Ventures. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "38286~102610",
+      "salary_range_avg": "70448.00",
+      "company_name": "E-commerce Ventures",
+      "posting_date": "2025-03-18",
+      "expiration_date": "2025-06-16",
+      "required_skills": "JavaScript,Supply Chain Optimization,Django,Cloud Computing,React,Project Management",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 117,
+    "fields": {
+      "title": "Sales Executive (Test Job #7)",
+      "desc": "We are looking for a talented Sales Executive to join our dynamic team at E-commerce Ventures. Responsibilities include...",
+      "location": "New York, NY",
+      "salary_range": "39761~88521",
+      "salary_range_avg": "64141.00",
+      "company_name": "E-commerce Ventures",
+      "posting_date": "2025-03-12",
+      "expiration_date": "2025-06-10",
+      "required_skills": "Communication Skills,Cloud Computing,Customer Service,Machine Learning",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 118,
+    "fields": {
+      "title": "Software Engineer (Test Job #8)",
+      "desc": "We are looking for a talented Software Engineer to join our dynamic team at E-commerce Ventures. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "69159~101796",
+      "salary_range_avg": "85477.00",
+      "company_name": "E-commerce Ventures",
+      "posting_date": "2025-03-30",
+      "expiration_date": "2025-06-28",
+      "required_skills": "React,SEO,Renewable Energy Systems,Django,Data Analysis",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 119,
+    "fields": {
+      "title": "Software Engineer (Test Job #9)",
+      "desc": "We are looking for a talented Software Engineer to join our dynamic team at E-commerce Ventures. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "52000~91571",
+      "salary_range_avg": "71785.00",
+      "company_name": "E-commerce Ventures",
+      "posting_date": "2025-02-01",
+      "expiration_date": "2025-05-02",
+      "required_skills": "Python,Customer Service,Agile Methodologies",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 120,
+    "fields": {
+      "title": "Marketing Specialist (Test Job #10)",
+      "desc": "We are looking for a talented Marketing Specialist to join our dynamic team at E-commerce Ventures. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "34347~102140",
+      "salary_range_avg": "68243.00",
+      "company_name": "E-commerce Ventures",
+      "posting_date": "2025-02-25",
+      "expiration_date": "2025-05-26",
+      "required_skills": "Cloud Computing,Logistics Management,Machine Learning,UI/UX Design,SEO",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 121,
+    "fields": {
+      "title": "Cloud Solutions Architect (Test Job #1)",
+      "desc": "We are looking for a talented Cloud Solutions Architect to join our dynamic team at Cybersecurity Experts. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "面議",
+      "salary_range_avg": "40000.00",
+      "company_name": "Cybersecurity Experts",
+      "posting_date": "2025-03-07",
+      "expiration_date": "2025-06-05",
+      "required_skills": "Agile Methodologies,Cloud Computing,Problem Solving,JavaScript",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 122,
+    "fields": {
+      "title": "Logistics Coordinator (Test Job #2)",
+      "desc": "We are looking for a talented Logistics Coordinator to join our dynamic team at Cybersecurity Experts. Responsibilities include...",
+      "location": "New York, NY",
+      "salary_range": "51044~112716",
+      "salary_range_avg": "81880.00",
+      "company_name": "Cybersecurity Experts",
+      "posting_date": "2025-03-23",
+      "expiration_date": "2025-06-21",
+      "required_skills": "Renewable Energy Systems,Data Analysis",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 123,
+    "fields": {
+      "title": "Marketing Specialist (Test Job #3)",
+      "desc": "We are looking for a talented Marketing Specialist to join our dynamic team at Cybersecurity Experts. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "31381~99361",
+      "salary_range_avg": "65371.00",
+      "company_name": "Cybersecurity Experts",
+      "posting_date": "2025-03-17",
+      "expiration_date": "2025-06-15",
+      "required_skills": "Time Management,Data Analysis",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 124,
+    "fields": {
+      "title": "Logistics Coordinator (Test Job #4)",
+      "desc": "We are looking for a talented Logistics Coordinator to join our dynamic team at Cybersecurity Experts. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "40555~94593",
+      "salary_range_avg": "67574.00",
+      "company_name": "Cybersecurity Experts",
+      "posting_date": "2025-01-30",
+      "expiration_date": "2025-04-30",
+      "required_skills": "Problem Solving,Communication Skills,Logistics Management,Project Management,Time Management,Agile Methodologies",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 125,
+    "fields": {
+      "title": "Marketing Specialist (Test Job #5)",
+      "desc": "We are looking for a talented Marketing Specialist to join our dynamic team at Cybersecurity Experts. Responsibilities include...",
+      "location": "New York, NY",
+      "salary_range": "69850~109226",
+      "salary_range_avg": "89538.00",
+      "company_name": "Cybersecurity Experts",
+      "posting_date": "2025-03-30",
+      "expiration_date": "2025-06-28",
+      "required_skills": "SEO,Renewable Energy Systems,Problem Solving,React,Project Management,Python",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 126,
+    "fields": {
+      "title": "Product Manager (Test Job #6)",
+      "desc": "We are looking for a talented Product Manager to join our dynamic team at Cybersecurity Experts. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "51218~88923",
+      "salary_range_avg": "70070.00",
+      "company_name": "Cybersecurity Experts",
+      "posting_date": "2025-03-11",
+      "expiration_date": "2025-06-09",
+      "required_skills": "Agile Methodologies,Python",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 127,
+    "fields": {
+      "title": "Logistics Coordinator (Test Job #7)",
+      "desc": "We are looking for a talented Logistics Coordinator to join our dynamic team at Cybersecurity Experts. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "62093~87466",
+      "salary_range_avg": "74779.00",
+      "company_name": "Cybersecurity Experts",
+      "posting_date": "2025-02-02",
+      "expiration_date": "2025-05-03",
+      "required_skills": "Agile Methodologies,Time Management,Communication Skills,Python,Medical Laboratory Techniques",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 128,
+    "fields": {
+      "title": "Operations Manager (Test Job #8)",
+      "desc": "We are looking for a talented Operations Manager to join our dynamic team at Cybersecurity Experts. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "72068~115873",
+      "salary_range_avg": "93970.00",
+      "company_name": "Cybersecurity Experts",
+      "posting_date": "2025-03-01",
+      "expiration_date": "2025-05-30",
+      "required_skills": "Data Analysis,Problem Solving,Agile Methodologies,Python",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 129,
+    "fields": {
+      "title": "Sales Executive (Test Job #9)",
+      "desc": "We are looking for a talented Sales Executive to join our dynamic team at Cybersecurity Experts. Responsibilities include...",
+      "location": "San Francisco, CA",
+      "salary_range": "77412~93244",
+      "salary_range_avg": "85328.00",
+      "company_name": "Cybersecurity Experts",
+      "posting_date": "2025-02-20",
+      "expiration_date": "2025-05-21",
+      "required_skills": "Medical Laboratory Techniques,Team Collaboration,JavaScript",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 130,
+    "fields": {
+      "title": "Renewable Energy Technician (Test Job #10)",
+      "desc": "We are looking for a talented Renewable Energy Technician to join our dynamic team at Cybersecurity Experts. Responsibilities include...",
+      "location": "San Francisco, CA",
+      "salary_range": "79283~95032",
+      "salary_range_avg": "87157.00",
+      "company_name": "Cybersecurity Experts",
+      "posting_date": "2025-02-07",
+      "expiration_date": "2025-05-08",
+      "required_skills": "Medical Laboratory Techniques,Logistics Management,Customer Service,Communication Skills,Time Management,Cloud Computing",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 131,
+    "fields": {
+      "title": "Healthcare Consultant (Test Job #1)",
+      "desc": "We are looking for a talented Healthcare Consultant to join our dynamic team at AI Research Labs. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "面議",
+      "salary_range_avg": "40000.00",
+      "company_name": "AI Research Labs",
+      "posting_date": "2025-03-19",
+      "expiration_date": "2025-06-17",
+      "required_skills": "JavaScript,Renewable Energy Systems,Customer Service,UI/UX Design,Cloud Computing,React",
+      "created_at": "2025-05-28T16:51:24.122Z",
+      "updated_at": "2025-05-28T16:51:24.122Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 132,
+    "fields": {
+      "title": "Cloud Solutions Architect (Test Job #2)",
+      "desc": "We are looking for a talented Cloud Solutions Architect to join our dynamic team at AI Research Labs. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "45909~115830",
+      "salary_range_avg": "80869.00",
+      "company_name": "AI Research Labs",
+      "posting_date": "2025-03-10",
+      "expiration_date": "2025-06-08",
+      "required_skills": "React,Medical Laboratory Techniques",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 133,
+    "fields": {
+      "title": "Project Coordinator (Test Job #3)",
+      "desc": "We are looking for a talented Project Coordinator to join our dynamic team at AI Research Labs. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "33672~98996",
+      "salary_range_avg": "66334.00",
+      "company_name": "AI Research Labs",
+      "posting_date": "2025-01-31",
+      "expiration_date": "2025-05-01",
+      "required_skills": "Medical Laboratory Techniques,Supply Chain Optimization",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 134,
+    "fields": {
+      "title": "Senior Python Developer (Test Job #4)",
+      "desc": "We are looking for a talented Senior Python Developer to join our dynamic team at AI Research Labs. Responsibilities include...",
+      "location": "San Francisco, CA",
+      "salary_range": "62800~118186",
+      "salary_range_avg": "90493.00",
+      "company_name": "AI Research Labs",
+      "posting_date": "2025-01-29",
+      "expiration_date": "2025-04-29",
+      "required_skills": "Machine Learning,Django",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 135,
+    "fields": {
+      "title": "Agile Coach (Test Job #5)",
+      "desc": "We are looking for a talented Agile Coach to join our dynamic team at AI Research Labs. Responsibilities include...",
+      "location": "San Francisco, CA",
+      "salary_range": "72674~108143",
+      "salary_range_avg": "90408.00",
+      "company_name": "AI Research Labs",
+      "posting_date": "2025-03-25",
+      "expiration_date": "2025-06-23",
+      "required_skills": "Supply Chain Optimization,Agile Methodologies,Problem Solving,Communication Skills",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 136,
+    "fields": {
+      "title": "Renewable Energy Technician (Test Job #6)",
+      "desc": "We are looking for a talented Renewable Energy Technician to join our dynamic team at AI Research Labs. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "78769~109236",
+      "salary_range_avg": "94002.00",
+      "company_name": "AI Research Labs",
+      "posting_date": "2025-02-15",
+      "expiration_date": "2025-05-16",
+      "required_skills": "SEO,Renewable Energy Systems,Medical Laboratory Techniques,Supply Chain Optimization,Project Management,Machine Learning",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 137,
+    "fields": {
+      "title": "Project Coordinator (Test Job #7)",
+      "desc": "We are looking for a talented Project Coordinator to join our dynamic team at AI Research Labs. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "72795~84983",
+      "salary_range_avg": "78889.00",
+      "company_name": "AI Research Labs",
+      "posting_date": "2025-02-19",
+      "expiration_date": "2025-05-20",
+      "required_skills": "React,JavaScript,Project Management,Problem Solving,Team Collaboration",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 138,
+    "fields": {
+      "title": "Operations Manager (Test Job #8)",
+      "desc": "We are looking for a talented Operations Manager to join our dynamic team at AI Research Labs. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "30568~92914",
+      "salary_range_avg": "61741.00",
+      "company_name": "AI Research Labs",
+      "posting_date": "2025-03-05",
+      "expiration_date": "2025-06-03",
+      "required_skills": "Time Management,Communication Skills,Renewable Energy Systems",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 139,
+    "fields": {
+      "title": "Healthcare Consultant (Test Job #9)",
+      "desc": "We are looking for a talented Healthcare Consultant to join our dynamic team at AI Research Labs. Responsibilities include...",
+      "location": "New York, NY",
+      "salary_range": "36255~108890",
+      "salary_range_avg": "72572.00",
+      "company_name": "AI Research Labs",
+      "posting_date": "2025-03-15",
+      "expiration_date": "2025-06-13",
+      "required_skills": "SEO,Time Management",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 140,
+    "fields": {
+      "title": "Healthcare Consultant (Test Job #10)",
+      "desc": "We are looking for a talented Healthcare Consultant to join our dynamic team at AI Research Labs. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "40862~81966",
+      "salary_range_avg": "61414.00",
+      "company_name": "AI Research Labs",
+      "posting_date": "2025-03-17",
+      "expiration_date": "2025-06-15",
+      "required_skills": "Customer Service,Logistics Management,Project Management,Communication Skills,Time Management",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 141,
+    "fields": {
+      "title": "Logistics Coordinator (Test Job #1)",
+      "desc": "We are looking for a talented Logistics Coordinator to join our dynamic team at Blockchain Solutions. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "面議",
+      "salary_range_avg": "40000.00",
+      "company_name": "Blockchain Solutions",
+      "posting_date": "2025-02-14",
+      "expiration_date": "2025-05-15",
+      "required_skills": "Medical Laboratory Techniques,Machine Learning",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 142,
+    "fields": {
+      "title": "Financial Analyst (Test Job #2)",
+      "desc": "We are looking for a talented Financial Analyst to join our dynamic team at Blockchain Solutions. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "76318~100951",
+      "salary_range_avg": "88634.00",
+      "company_name": "Blockchain Solutions",
+      "posting_date": "2025-02-22",
+      "expiration_date": "2025-05-23",
+      "required_skills": "Agile Methodologies,Logistics Management,Data Analysis,UI/UX Design,Project Management,Medical Laboratory Techniques",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 143,
+    "fields": {
+      "title": "Agile Coach (Test Job #3)",
+      "desc": "We are looking for a talented Agile Coach to join our dynamic team at Blockchain Solutions. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "66712~98488",
+      "salary_range_avg": "82600.00",
+      "company_name": "Blockchain Solutions",
+      "posting_date": "2025-03-05",
+      "expiration_date": "2025-06-03",
+      "required_skills": "Customer Service,Agile Methodologies",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 144,
+    "fields": {
+      "title": "Sales Executive (Test Job #4)",
+      "desc": "We are looking for a talented Sales Executive to join our dynamic team at Blockchain Solutions. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "64373~108781",
+      "salary_range_avg": "86577.00",
+      "company_name": "Blockchain Solutions",
+      "posting_date": "2025-03-16",
+      "expiration_date": "2025-06-14",
+      "required_skills": "Agile Methodologies,Project Management,Renewable Energy Systems,Customer Service",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 145,
+    "fields": {
+      "title": "AI Research Scientist (Test Job #5)",
+      "desc": "We are looking for a talented AI Research Scientist to join our dynamic team at Blockchain Solutions. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "30751~114140",
+      "salary_range_avg": "72445.00",
+      "company_name": "Blockchain Solutions",
+      "posting_date": "2025-01-31",
+      "expiration_date": "2025-05-01",
+      "required_skills": "Renewable Energy Systems,Supply Chain Optimization,SEO,Django,Data Analysis",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 146,
+    "fields": {
+      "title": "Healthcare Consultant (Test Job #6)",
+      "desc": "We are looking for a talented Healthcare Consultant to join our dynamic team at Blockchain Solutions. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "75250~112469",
+      "salary_range_avg": "93859.00",
+      "company_name": "Blockchain Solutions",
+      "posting_date": "2025-02-01",
+      "expiration_date": "2025-05-02",
+      "required_skills": "Machine Learning,Logistics Management,Communication Skills,Agile Methodologies,React",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 147,
+    "fields": {
+      "title": "Blockchain Developer (Test Job #7)",
+      "desc": "We are looking for a talented Blockchain Developer to join our dynamic team at Blockchain Solutions. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "57440~85751",
+      "salary_range_avg": "71595.00",
+      "company_name": "Blockchain Solutions",
+      "posting_date": "2025-03-14",
+      "expiration_date": "2025-06-12",
+      "required_skills": "Renewable Energy Systems,Logistics Management,Communication Skills,Problem Solving,Cloud Computing",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 148,
+    "fields": {
+      "title": "Logistics Coordinator (Test Job #8)",
+      "desc": "We are looking for a talented Logistics Coordinator to join our dynamic team at Blockchain Solutions. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "44155~101296",
+      "salary_range_avg": "72725.00",
+      "company_name": "Blockchain Solutions",
+      "posting_date": "2025-03-10",
+      "expiration_date": "2025-06-08",
+      "required_skills": "Cloud Computing,Time Management,Supply Chain Optimization,Customer Service,Logistics Management",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 149,
+    "fields": {
+      "title": "Medical Lab Scientist (Test Job #9)",
+      "desc": "We are looking for a talented Medical Lab Scientist to join our dynamic team at Blockchain Solutions. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "33825~112462",
+      "salary_range_avg": "73143.00",
+      "company_name": "Blockchain Solutions",
+      "posting_date": "2025-02-03",
+      "expiration_date": "2025-05-04",
+      "required_skills": "Project Management,Logistics Management,Problem Solving",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 150,
+    "fields": {
+      "title": "Data Scientist (Test Job #10)",
+      "desc": "We are looking for a talented Data Scientist to join our dynamic team at Blockchain Solutions. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "47285~102888",
+      "salary_range_avg": "75086.00",
+      "company_name": "Blockchain Solutions",
+      "posting_date": "2025-02-08",
+      "expiration_date": "2025-05-09",
+      "required_skills": "Communication Skills,Agile Methodologies",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 151,
+    "fields": {
+      "title": "Supply Chain Analyst (Test Job #1)",
+      "desc": "We are looking for a talented Supply Chain Analyst to join our dynamic team at FinTech Innovations. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "面議",
+      "salary_range_avg": "40000.00",
+      "company_name": "FinTech Innovations",
+      "posting_date": "2025-03-23",
+      "expiration_date": "2025-06-21",
+      "required_skills": "Data Analysis,Python,SEO,Customer Service,Agile Methodologies,Communication Skills",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 152,
+    "fields": {
+      "title": "Logistics Coordinator (Test Job #2)",
+      "desc": "We are looking for a talented Logistics Coordinator to join our dynamic team at FinTech Innovations. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "59978~91041",
+      "salary_range_avg": "75509.00",
+      "company_name": "FinTech Innovations",
+      "posting_date": "2025-02-08",
+      "expiration_date": "2025-05-09",
+      "required_skills": "Renewable Energy Systems,SEO,Agile Methodologies",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 153,
+    "fields": {
+      "title": "Sales Executive (Test Job #3)",
+      "desc": "We are looking for a talented Sales Executive to join our dynamic team at FinTech Innovations. Responsibilities include...",
+      "location": "San Francisco, CA",
+      "salary_range": "30660~95336",
+      "salary_range_avg": "62998.00",
+      "company_name": "FinTech Innovations",
+      "posting_date": "2025-03-16",
+      "expiration_date": "2025-06-14",
+      "required_skills": "Machine Learning,Logistics Management,Problem Solving,UI/UX Design,Agile Methodologies,Renewable Energy Systems",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 154,
+    "fields": {
+      "title": "Agile Coach (Test Job #4)",
+      "desc": "We are looking for a talented Agile Coach to join our dynamic team at FinTech Innovations. Responsibilities include...",
+      "location": "New York, NY",
+      "salary_range": "62063~106511",
+      "salary_range_avg": "84287.00",
+      "company_name": "FinTech Innovations",
+      "posting_date": "2025-03-16",
+      "expiration_date": "2025-06-14",
+      "required_skills": "SEO,Problem Solving,UI/UX Design",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 155,
+    "fields": {
+      "title": "AI Research Scientist (Test Job #5)",
+      "desc": "We are looking for a talented AI Research Scientist to join our dynamic team at FinTech Innovations. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "72819~98325",
+      "salary_range_avg": "85572.00",
+      "company_name": "FinTech Innovations",
+      "posting_date": "2025-02-09",
+      "expiration_date": "2025-05-10",
+      "required_skills": "Django,Renewable Energy Systems,Logistics Management,Team Collaboration",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 156,
+    "fields": {
+      "title": "Cybersecurity Analyst (Test Job #6)",
+      "desc": "We are looking for a talented Cybersecurity Analyst to join our dynamic team at FinTech Innovations. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "57901~91328",
+      "salary_range_avg": "74614.00",
+      "company_name": "FinTech Innovations",
+      "posting_date": "2025-03-13",
+      "expiration_date": "2025-06-11",
+      "required_skills": "Time Management,Machine Learning",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 157,
+    "fields": {
+      "title": "Healthcare Consultant (Test Job #7)",
+      "desc": "We are looking for a talented Healthcare Consultant to join our dynamic team at FinTech Innovations. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "31959~115216",
+      "salary_range_avg": "73587.00",
+      "company_name": "FinTech Innovations",
+      "posting_date": "2025-01-29",
+      "expiration_date": "2025-04-29",
+      "required_skills": "React,Problem Solving",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 158,
+    "fields": {
+      "title": "Customer Support Specialist (Test Job #8)",
+      "desc": "We are looking for a talented Customer Support Specialist to join our dynamic team at FinTech Innovations. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "73539~118981",
+      "salary_range_avg": "96260.00",
+      "company_name": "FinTech Innovations",
+      "posting_date": "2025-02-21",
+      "expiration_date": "2025-05-22",
+      "required_skills": "Cloud Computing,Team Collaboration,JavaScript,Machine Learning,SEO",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 159,
+    "fields": {
+      "title": "Operations Manager (Test Job #9)",
+      "desc": "We are looking for a talented Operations Manager to join our dynamic team at FinTech Innovations. Responsibilities include...",
+      "location": "San Francisco, CA",
+      "salary_range": "68974~110263",
+      "salary_range_avg": "89618.00",
+      "company_name": "FinTech Innovations",
+      "posting_date": "2025-03-16",
+      "expiration_date": "2025-06-14",
+      "required_skills": "React,Supply Chain Optimization,Cloud Computing,Python",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 160,
+    "fields": {
+      "title": "Cybersecurity Analyst (Test Job #10)",
+      "desc": "We are looking for a talented Cybersecurity Analyst to join our dynamic team at FinTech Innovations. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "45026~103272",
+      "salary_range_avg": "74149.00",
+      "company_name": "FinTech Innovations",
+      "posting_date": "2025-03-18",
+      "expiration_date": "2025-06-16",
+      "required_skills": "Machine Learning,Agile Methodologies,SEO,Medical Laboratory Techniques",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 161,
+    "fields": {
+      "title": "Product Manager (Test Job #1)",
+      "desc": "We are looking for a talented Product Manager to join our dynamic team at Healthcare Solutions. Responsibilities include...",
+      "location": "New York, NY",
+      "salary_range": "面議",
+      "salary_range_avg": "40000.00",
+      "company_name": "Healthcare Solutions",
+      "posting_date": "2025-03-13",
+      "expiration_date": "2025-06-11",
+      "required_skills": "Cloud Computing,Project Management,Django",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 162,
+    "fields": {
+      "title": "Senior Python Developer (Test Job #2)",
+      "desc": "We are looking for a talented Senior Python Developer to join our dynamic team at Healthcare Solutions. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "48446~80912",
+      "salary_range_avg": "64679.00",
+      "company_name": "Healthcare Solutions",
+      "posting_date": "2025-03-30",
+      "expiration_date": "2025-06-28",
+      "required_skills": "React,Cloud Computing,Project Management,Logistics Management,UI/UX Design,Django",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 163,
+    "fields": {
+      "title": "Frontend Developer (React) (Test Job #3)",
+      "desc": "We are looking for a talented Frontend Developer (React) to join our dynamic team at Healthcare Solutions. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "63439~80454",
+      "salary_range_avg": "71946.00",
+      "company_name": "Healthcare Solutions",
+      "posting_date": "2025-03-22",
+      "expiration_date": "2025-06-20",
+      "required_skills": "Supply Chain Optimization,Problem Solving",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 164,
+    "fields": {
+      "title": "UX/UI Designer (Test Job #4)",
+      "desc": "We are looking for a talented UX/UI Designer to join our dynamic team at Healthcare Solutions. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "77248~80429",
+      "salary_range_avg": "78838.00",
+      "company_name": "Healthcare Solutions",
+      "posting_date": "2025-03-09",
+      "expiration_date": "2025-06-07",
+      "required_skills": "Data Analysis,Problem Solving,Supply Chain Optimization,Team Collaboration,Logistics Management,Customer Service",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 165,
+    "fields": {
+      "title": "Logistics Coordinator (Test Job #5)",
+      "desc": "We are looking for a talented Logistics Coordinator to join our dynamic team at Healthcare Solutions. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "34072~94374",
+      "salary_range_avg": "64223.00",
+      "company_name": "Healthcare Solutions",
+      "posting_date": "2025-03-04",
+      "expiration_date": "2025-06-02",
+      "required_skills": "Cloud Computing,Agile Methodologies,Logistics Management,Django,Team Collaboration",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 166,
+    "fields": {
+      "title": "Financial Analyst (Test Job #6)",
+      "desc": "We are looking for a talented Financial Analyst to join our dynamic team at Healthcare Solutions. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "75886~99045",
+      "salary_range_avg": "87465.00",
+      "company_name": "Healthcare Solutions",
+      "posting_date": "2025-03-16",
+      "expiration_date": "2025-06-14",
+      "required_skills": "Django,Data Analysis,Cloud Computing,Agile Methodologies,JavaScript",
+      "created_at": "2025-05-28T16:51:24.123Z",
+      "updated_at": "2025-05-28T16:51:24.123Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 167,
+    "fields": {
+      "title": "Cloud Solutions Architect (Test Job #7)",
+      "desc": "We are looking for a talented Cloud Solutions Architect to join our dynamic team at Healthcare Solutions. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "59662~87457",
+      "salary_range_avg": "73559.00",
+      "company_name": "Healthcare Solutions",
+      "posting_date": "2025-03-26",
+      "expiration_date": "2025-06-24",
+      "required_skills": "Supply Chain Optimization,Team Collaboration,SEO,UI/UX Design,Project Management,Medical Laboratory Techniques",
+      "created_at": "2025-05-28T16:51:24.124Z",
+      "updated_at": "2025-05-28T16:51:24.124Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 168,
+    "fields": {
+      "title": "Project Coordinator (Test Job #8)",
+      "desc": "We are looking for a talented Project Coordinator to join our dynamic team at Healthcare Solutions. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "32369~101292",
+      "salary_range_avg": "66830.00",
+      "company_name": "Healthcare Solutions",
+      "posting_date": "2025-02-19",
+      "expiration_date": "2025-05-20",
+      "required_skills": "Python,Renewable Energy Systems,Data Analysis,Communication Skills",
+      "created_at": "2025-05-28T16:51:24.124Z",
+      "updated_at": "2025-05-28T16:51:24.124Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 169,
+    "fields": {
+      "title": "Blockchain Developer (Test Job #9)",
+      "desc": "We are looking for a talented Blockchain Developer to join our dynamic team at Healthcare Solutions. Responsibilities include...",
+      "location": "San Francisco, CA",
+      "salary_range": "79718~104131",
+      "salary_range_avg": "91924.00",
+      "company_name": "Healthcare Solutions",
+      "posting_date": "2025-03-14",
+      "expiration_date": "2025-06-12",
+      "required_skills": "SEO,UI/UX Design,Problem Solving,Team Collaboration,Time Management",
+      "created_at": "2025-05-28T16:51:24.124Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 170,
+    "fields": {
+      "title": "Financial Analyst (Test Job #10)",
+      "desc": "We are looking for a talented Financial Analyst to join our dynamic team at Healthcare Solutions. Responsibilities include...",
+      "location": "New York, NY",
+      "salary_range": "40941~88138",
+      "salary_range_avg": "64539.00",
+      "company_name": "Healthcare Solutions",
+      "posting_date": "2025-02-04",
+      "expiration_date": "2025-05-05",
+      "required_skills": "Medical Laboratory Techniques,SEO,Project Management,Renewable Energy Systems,Problem Solving,Communication Skills",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 171,
+    "fields": {
+      "title": "Senior Python Developer (Test Job #1)",
+      "desc": "We are looking for a talented Senior Python Developer to join our dynamic team at Education Tech Partners. Responsibilities include...",
+      "location": "New York, NY",
+      "salary_range": "面議",
+      "salary_range_avg": "40000.00",
+      "company_name": "Education Tech Partners",
+      "posting_date": "2025-02-27",
+      "expiration_date": "2025-05-28",
+      "required_skills": "Data Analysis,Logistics Management,Team Collaboration,Django,Supply Chain Optimization,UI/UX Design",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 172,
+    "fields": {
+      "title": "Customer Support Specialist (Test Job #2)",
+      "desc": "We are looking for a talented Customer Support Specialist to join our dynamic team at Education Tech Partners. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "54542~86721",
+      "salary_range_avg": "70631.00",
+      "company_name": "Education Tech Partners",
+      "posting_date": "2025-03-02",
+      "expiration_date": "2025-05-31",
+      "required_skills": "SEO,Time Management,Machine Learning",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 173,
+    "fields": {
+      "title": "Project Coordinator (Test Job #3)",
+      "desc": "We are looking for a talented Project Coordinator to join our dynamic team at Education Tech Partners. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "46150~107059",
+      "salary_range_avg": "76604.00",
+      "company_name": "Education Tech Partners",
+      "posting_date": "2025-03-17",
+      "expiration_date": "2025-06-15",
+      "required_skills": "Communication Skills,Medical Laboratory Techniques",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 174,
+    "fields": {
+      "title": "Frontend Developer (React) (Test Job #4)",
+      "desc": "We are looking for a talented Frontend Developer (React) to join our dynamic team at Education Tech Partners. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "55851~114483",
+      "salary_range_avg": "85167.00",
+      "company_name": "Education Tech Partners",
+      "posting_date": "2025-02-01",
+      "expiration_date": "2025-05-02",
+      "required_skills": "Machine Learning,React,Cloud Computing",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 175,
+    "fields": {
+      "title": "Senior Python Developer (Test Job #5)",
+      "desc": "We are looking for a talented Senior Python Developer to join our dynamic team at Education Tech Partners. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "55126~93814",
+      "salary_range_avg": "74470.00",
+      "company_name": "Education Tech Partners",
+      "posting_date": "2025-02-07",
+      "expiration_date": "2025-05-08",
+      "required_skills": "Medical Laboratory Techniques,Agile Methodologies",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 176,
+    "fields": {
+      "title": "Medical Lab Scientist (Test Job #6)",
+      "desc": "We are looking for a talented Medical Lab Scientist to join our dynamic team at Education Tech Partners. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "79397~94483",
+      "salary_range_avg": "86940.00",
+      "company_name": "Education Tech Partners",
+      "posting_date": "2025-03-30",
+      "expiration_date": "2025-06-28",
+      "required_skills": "Communication Skills,Customer Service,Cloud Computing,Renewable Energy Systems,UI/UX Design",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 177,
+    "fields": {
+      "title": "Frontend Developer (React) (Test Job #7)",
+      "desc": "We are looking for a talented Frontend Developer (React) to join our dynamic team at Education Tech Partners. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "69762~101264",
+      "salary_range_avg": "85513.00",
+      "company_name": "Education Tech Partners",
+      "posting_date": "2025-03-03",
+      "expiration_date": "2025-06-01",
+      "required_skills": "React,Machine Learning,Communication Skills",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 178,
+    "fields": {
+      "title": "UX/UI Designer (Test Job #8)",
+      "desc": "We are looking for a talented UX/UI Designer to join our dynamic team at Education Tech Partners. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "48319~99611",
+      "salary_range_avg": "73965.00",
+      "company_name": "Education Tech Partners",
+      "posting_date": "2025-03-27",
+      "expiration_date": "2025-06-25",
+      "required_skills": "Customer Service,Supply Chain Optimization,Python",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 179,
+    "fields": {
+      "title": "UX/UI Designer (Test Job #9)",
+      "desc": "We are looking for a talented UX/UI Designer to join our dynamic team at Education Tech Partners. Responsibilities include...",
+      "location": "San Francisco, CA",
+      "salary_range": "72427~83838",
+      "salary_range_avg": "78132.00",
+      "company_name": "Education Tech Partners",
+      "posting_date": "2025-02-13",
+      "expiration_date": "2025-05-14",
+      "required_skills": "Python,Machine Learning",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 180,
+    "fields": {
+      "title": "Healthcare Consultant (Test Job #10)",
+      "desc": "We are looking for a talented Healthcare Consultant to join our dynamic team at Education Tech Partners. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "73347~100169",
+      "salary_range_avg": "86758.00",
+      "company_name": "Education Tech Partners",
+      "posting_date": "2025-03-28",
+      "expiration_date": "2025-06-26",
+      "required_skills": "Medical Laboratory Techniques,Problem Solving,Renewable Energy Systems",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 181,
+    "fields": {
+      "title": "Product Manager (Test Job #1)",
+      "desc": "We are looking for a talented Product Manager to join our dynamic team at Travel and Leisure Co.. Responsibilities include...",
+      "location": "Remote",
+      "salary_range": "面議",
+      "salary_range_avg": "40000.00",
+      "company_name": "Travel and Leisure Co.",
+      "posting_date": "2025-03-29",
+      "expiration_date": "2025-06-27",
+      "required_skills": "Cloud Computing,Communication Skills,Supply Chain Optimization",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 182,
+    "fields": {
+      "title": "Senior Python Developer (Test Job #2)",
+      "desc": "We are looking for a talented Senior Python Developer to join our dynamic team at Travel and Leisure Co.. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "65941~106904",
+      "salary_range_avg": "86422.00",
+      "company_name": "Travel and Leisure Co.",
+      "posting_date": "2025-01-30",
+      "expiration_date": "2025-04-30",
+      "required_skills": "Machine Learning,Logistics Management,Time Management,UI/UX Design,Communication Skills,JavaScript",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 183,
+    "fields": {
+      "title": "Financial Analyst (Test Job #3)",
+      "desc": "We are looking for a talented Financial Analyst to join our dynamic team at Travel and Leisure Co.. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "34407~110794",
+      "salary_range_avg": "72600.00",
+      "company_name": "Travel and Leisure Co.",
+      "posting_date": "2025-02-24",
+      "expiration_date": "2025-05-25",
+      "required_skills": "Machine Learning,Logistics Management",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 184,
+    "fields": {
+      "title": "Product Manager (Test Job #4)",
+      "desc": "We are looking for a talented Product Manager to join our dynamic team at Travel and Leisure Co.. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "51079~112829",
+      "salary_range_avg": "81954.00",
+      "company_name": "Travel and Leisure Co.",
+      "posting_date": "2025-03-24",
+      "expiration_date": "2025-06-22",
+      "required_skills": "Agile Methodologies,Django,Data Analysis,Time Management,JavaScript,Cloud Computing",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 185,
+    "fields": {
+      "title": "Logistics Coordinator (Test Job #5)",
+      "desc": "We are looking for a talented Logistics Coordinator to join our dynamic team at Travel and Leisure Co.. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "37024~99995",
+      "salary_range_avg": "68509.00",
+      "company_name": "Travel and Leisure Co.",
+      "posting_date": "2025-02-20",
+      "expiration_date": "2025-05-21",
+      "required_skills": "Project Management,Medical Laboratory Techniques,Logistics Management,SEO,Communication Skills",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 186,
+    "fields": {
+      "title": "Software Engineer (Test Job #6)",
+      "desc": "We are looking for a talented Software Engineer to join our dynamic team at Travel and Leisure Co.. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "60590~96930",
+      "salary_range_avg": "78760.00",
+      "company_name": "Travel and Leisure Co.",
+      "posting_date": "2025-03-23",
+      "expiration_date": "2025-06-21",
+      "required_skills": "Renewable Energy Systems,SEO,Logistics Management",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 187,
+    "fields": {
+      "title": "Customer Support Specialist (Test Job #7)",
+      "desc": "We are looking for a talented Customer Support Specialist to join our dynamic team at Travel and Leisure Co.. Responsibilities include...",
+      "location": "New York, NY",
+      "salary_range": "38837~111686",
+      "salary_range_avg": "75261.00",
+      "company_name": "Travel and Leisure Co.",
+      "posting_date": "2025-02-03",
+      "expiration_date": "2025-05-04",
+      "required_skills": "Agile Methodologies,JavaScript",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 188,
+    "fields": {
+      "title": "Senior Python Developer (Test Job #8)",
+      "desc": "We are looking for a talented Senior Python Developer to join our dynamic team at Travel and Leisure Co.. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "34754~100535",
+      "salary_range_avg": "67644.00",
+      "company_name": "Travel and Leisure Co.",
+      "posting_date": "2025-03-06",
+      "expiration_date": "2025-06-04",
+      "required_skills": "Time Management,Renewable Energy Systems,Agile Methodologies,Data Analysis,Supply Chain Optimization",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 189,
+    "fields": {
+      "title": "Sales Executive (Test Job #9)",
+      "desc": "We are looking for a talented Sales Executive to join our dynamic team at Travel and Leisure Co.. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "66681~115025",
+      "salary_range_avg": "90853.00",
+      "company_name": "Travel and Leisure Co.",
+      "posting_date": "2025-03-19",
+      "expiration_date": "2025-06-17",
+      "required_skills": "Renewable Energy Systems,Logistics Management,Communication Skills,Team Collaboration,Data Analysis",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 190,
+    "fields": {
+      "title": "Renewable Energy Technician (Test Job #10)",
+      "desc": "We are looking for a talented Renewable Energy Technician to join our dynamic team at Travel and Leisure Co.. Responsibilities include...",
+      "location": "New York, NY",
+      "salary_range": "72589~113884",
+      "salary_range_avg": "93236.00",
+      "company_name": "Travel and Leisure Co.",
+      "posting_date": "2025-03-09",
+      "expiration_date": "2025-06-07",
+      "required_skills": "Machine Learning,Time Management,JavaScript,Django,Agile Methodologies",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 191,
+    "fields": {
+      "title": "Healthcare Consultant (Test Job #1)",
+      "desc": "We are looking for a talented Healthcare Consultant to join our dynamic team at Food and Beverage Corp.. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "面議",
+      "salary_range_avg": "40000.00",
+      "company_name": "Food and Beverage Corp.",
+      "posting_date": "2025-02-19",
+      "expiration_date": "2025-05-20",
+      "required_skills": "Cloud Computing,SEO",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 192,
+    "fields": {
+      "title": "Education Program Manager (Test Job #2)",
+      "desc": "We are looking for a talented Education Program Manager to join our dynamic team at Food and Beverage Corp.. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "79130~95874",
+      "salary_range_avg": "87502.00",
+      "company_name": "Food and Beverage Corp.",
+      "posting_date": "2025-03-14",
+      "expiration_date": "2025-06-12",
+      "required_skills": "Django,Medical Laboratory Techniques,Machine Learning,Time Management,UI/UX Design",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 193,
+    "fields": {
+      "title": "Blockchain Developer (Test Job #3)",
+      "desc": "We are looking for a talented Blockchain Developer to join our dynamic team at Food and Beverage Corp.. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "65906~95085",
+      "salary_range_avg": "80495.00",
+      "company_name": "Food and Beverage Corp.",
+      "posting_date": "2025-03-20",
+      "expiration_date": "2025-06-18",
+      "required_skills": "Agile Methodologies,Project Management,Team Collaboration,Data Analysis",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 194,
+    "fields": {
+      "title": "Blockchain Developer (Test Job #4)",
+      "desc": "We are looking for a talented Blockchain Developer to join our dynamic team at Food and Beverage Corp.. Responsibilities include...",
+      "location": "San Francisco, CA",
+      "salary_range": "41573~99469",
+      "salary_range_avg": "70521.00",
+      "company_name": "Food and Beverage Corp.",
+      "posting_date": "2025-03-04",
+      "expiration_date": "2025-06-02",
+      "required_skills": "Python,Renewable Energy Systems,React,Communication Skills,Problem Solving,Medical Laboratory Techniques",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 195,
+    "fields": {
+      "title": "Renewable Energy Technician (Test Job #5)",
+      "desc": "We are looking for a talented Renewable Energy Technician to join our dynamic team at Food and Beverage Corp.. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "58661~92161",
+      "salary_range_avg": "75411.00",
+      "company_name": "Food and Beverage Corp.",
+      "posting_date": "2025-02-08",
+      "expiration_date": "2025-05-09",
+      "required_skills": "Team Collaboration,Logistics Management",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 196,
+    "fields": {
+      "title": "Agile Coach (Test Job #6)",
+      "desc": "We are looking for a talented Agile Coach to join our dynamic team at Food and Beverage Corp.. Responsibilities include...",
+      "location": "San Francisco, CA",
+      "salary_range": "70459~113281",
+      "salary_range_avg": "91870.00",
+      "company_name": "Food and Beverage Corp.",
+      "posting_date": "2025-03-27",
+      "expiration_date": "2025-06-25",
+      "required_skills": "Data Analysis,SEO,Renewable Energy Systems,Time Management,Communication Skills,Logistics Management",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 197,
+    "fields": {
+      "title": "Supply Chain Analyst (Test Job #7)",
+      "desc": "We are looking for a talented Supply Chain Analyst to join our dynamic team at Food and Beverage Corp.. Responsibilities include...",
+      "location": "Austin, TX",
+      "salary_range": "31791~112808",
+      "salary_range_avg": "72299.00",
+      "company_name": "Food and Beverage Corp.",
+      "posting_date": "2025-02-28",
+      "expiration_date": "2025-05-29",
+      "required_skills": "JavaScript,Data Analysis,Supply Chain Optimization,Renewable Energy Systems,Medical Laboratory Techniques,Logistics Management",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 198,
+    "fields": {
+      "title": "Agile Coach (Test Job #8)",
+      "desc": "We are looking for a talented Agile Coach to join our dynamic team at Food and Beverage Corp.. Responsibilities include...",
+      "location": "London, UK",
+      "salary_range": "56390~108598",
+      "salary_range_avg": "82494.00",
+      "company_name": "Food and Beverage Corp.",
+      "posting_date": "2025-02-24",
+      "expiration_date": "2025-05-25",
+      "required_skills": "Django,Cloud Computing,Data Analysis,SEO,React",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "expired"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 199,
+    "fields": {
+      "title": "Medical Lab Scientist (Test Job #9)",
+      "desc": "We are looking for a talented Medical Lab Scientist to join our dynamic team at Food and Beverage Corp.. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "72285~104708",
+      "salary_range_avg": "88496.00",
+      "company_name": "Food and Beverage Corp.",
+      "posting_date": "2025-03-24",
+      "expiration_date": "2025-06-22",
+      "required_skills": "React,Python,Renewable Energy Systems,Problem Solving",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "active"
+    }
+  },
+  {
+    "model": "app.job",
+    "pk": 200,
+    "fields": {
+      "title": "Blockchain Developer (Test Job #10)",
+      "desc": "We are looking for a talented Blockchain Developer to join our dynamic team at Food and Beverage Corp.. Responsibilities include...",
+      "location": "Berlin, Germany",
+      "salary_range": "78184~83577",
+      "salary_range_avg": "80880.00",
+      "company_name": "Food and Beverage Corp.",
+      "posting_date": "2025-03-10",
+      "expiration_date": "2025-06-08",
+      "required_skills": "Project Management,Renewable Energy Systems,Time Management",
+      "created_at": "2025-05-28T16:51:24.125Z",
+      "updated_at": "2025-05-28T16:51:24.125Z",
+      "status": "active"
+    }
+  }
+]
